@@ -59,7 +59,7 @@ class HarnessPipeline:
                 temperature: float=1.0,
                 test_number:int=0, # For labeling in the dataframe for repeated trials
                 max_iterations: int=10, # Number of attempts the LLM gets to update the harness
-                conda_env: str="amira", # Conda environment to run harness in
+                conda_env: str="your_env", # Conda environment to run harness in
                 max_len: int=500, # Maximum length of the inputs to generate
                 num_runs: int=100, # Number of runs to use to see if the harness is valid (does not error out immediately)
                 max_revisions: int=3, # Number of times each upgrade/intrument update can try
