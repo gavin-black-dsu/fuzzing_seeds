@@ -1,0 +1,1 @@
+wave.open(io.BytesIO(b'\xff'*1024), 'rb')

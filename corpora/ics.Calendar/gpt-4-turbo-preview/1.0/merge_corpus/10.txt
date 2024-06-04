@@ -1,0 +1,5 @@
+{malformed
+begin:vcalendar
+version:2.0
+prodid:-//malformed
+end:vcalendar}

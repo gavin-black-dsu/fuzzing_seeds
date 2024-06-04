@@ -1,0 +1,3 @@
+[[arrayOfTables]]
+# Comment about array of tables
+key = 'value' # Comment about the key

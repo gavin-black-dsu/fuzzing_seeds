@@ -1,0 +1,3 @@
+@classmethod
+def make_sound(cls):
+    print('This is a class method')

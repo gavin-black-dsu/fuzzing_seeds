@@ -1,0 +1,1 @@
+ftp.example.com"><script>alert('xss')</script>

@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Multi-line
+ body
+This body starts in the header.

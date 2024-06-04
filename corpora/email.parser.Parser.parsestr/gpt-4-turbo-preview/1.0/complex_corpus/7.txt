@@ -1,0 +1,5 @@
+X-Random-Header: randomValue
+From: user@host.com
+To: another@host.com
+
+Random header test.

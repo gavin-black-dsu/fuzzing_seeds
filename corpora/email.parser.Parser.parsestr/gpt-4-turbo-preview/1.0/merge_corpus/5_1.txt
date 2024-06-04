@@ -1,0 +1,4 @@
+Subject: No from
+To: nobody@nowhere.com
+
+This message has no from.

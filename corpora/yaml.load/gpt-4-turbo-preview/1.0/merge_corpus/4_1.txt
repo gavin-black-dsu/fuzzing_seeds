@@ -1,0 +1,8 @@
+name: John Doe
+age: 29
+married: true
+children:
+  - name: Jane Doe
+    age: 10
+  - name: Doe Junior
+    age: 5

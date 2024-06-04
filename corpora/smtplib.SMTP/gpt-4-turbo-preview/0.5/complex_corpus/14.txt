@@ -1,0 +1,1 @@
+smtp://user:password@smtp.example.com

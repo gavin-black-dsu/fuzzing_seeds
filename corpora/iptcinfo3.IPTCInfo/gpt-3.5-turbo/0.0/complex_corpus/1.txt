@@ -1,0 +1,1 @@
+iptcinfo3.IPTCInfo(io.BytesIO(b'Hello, world!'))

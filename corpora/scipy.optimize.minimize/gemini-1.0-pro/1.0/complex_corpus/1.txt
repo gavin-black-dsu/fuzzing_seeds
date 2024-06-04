@@ -1,0 +1,1 @@
+scipy.optimize.minimize(data=['test'], x0=[1], method='BFGS')

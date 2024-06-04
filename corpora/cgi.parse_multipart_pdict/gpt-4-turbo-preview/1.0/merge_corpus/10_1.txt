@@ -1,0 +1,5 @@
+--boundary
+Content-Disposition: multiple/form-data; name="fields"
+
+value1, value2, value3
+--boundary--

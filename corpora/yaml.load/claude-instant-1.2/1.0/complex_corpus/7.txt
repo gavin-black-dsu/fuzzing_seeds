@@ -1,0 +1,6 @@
+--- 
+ ? complex map 
+ : !omap [ 
+   ?: ! 'str' 'a', 
+   : !float 1.1 
+ ]

@@ -1,0 +1,7 @@
+Return-Path: <bounce-393e0d89c9@sent.example.example.com>
+Received: from mail.example.com ([2604:3ef1:6451:9e5b:bfe4:92b6:912c:7010])
+ by inbound-smtp.example.net with ESMTP id 1B24D51398
+ for <you@example.net>; Sat, 23 Aug 2020 17:41:01 +0900 (JST)
+From: test@example.org
+To: you@example.org
+Subject: Hello

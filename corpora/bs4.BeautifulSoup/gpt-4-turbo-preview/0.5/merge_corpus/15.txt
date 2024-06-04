@@ -1,0 +1,1 @@
+<html><body><div style='background-image: url(javascript:alert(1))'>Test</div></body></html>

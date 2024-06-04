@@ -1,0 +1,1 @@
+q=foo%00bar%00baz

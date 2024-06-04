@@ -1,0 +1,6 @@
+From: user@example.com
+Subject: Test
+To: recipient@example.com
+Content-Type: text/plain; charset="utf-8"
+
+Body with specified charset.

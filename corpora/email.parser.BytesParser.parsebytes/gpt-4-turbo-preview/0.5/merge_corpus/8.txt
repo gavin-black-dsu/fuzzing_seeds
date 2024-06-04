@@ -1,0 +1,5 @@
+From: "User, Example" <user@example.com>
+To: "Recipient, Example" <recipient@example.com>
+Subject: Quoted names
+
+Body with quoted names

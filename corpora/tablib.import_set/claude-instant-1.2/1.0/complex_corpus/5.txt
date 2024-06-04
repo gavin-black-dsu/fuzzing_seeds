@@ -1,0 +1,1 @@
+tablib.import_set({'rows': [[{'foo': 'a'}, {'bar': 'b'}]], 'headers': ['foo', 'bar']}, format='csv')

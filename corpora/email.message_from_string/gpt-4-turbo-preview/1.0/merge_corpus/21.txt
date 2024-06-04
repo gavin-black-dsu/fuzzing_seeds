@@ -1,0 +1,1 @@
+FROM: user@example.com TO: recipient@example.com SUBJECT: Test Email BODY: Body with uppercase headers.

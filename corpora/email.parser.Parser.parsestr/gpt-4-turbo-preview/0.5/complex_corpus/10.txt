@@ -1,0 +1,7 @@
+From: <user@example.com>
+To: <recipient@example.com>
+Cc: <cc@example.com>
+Bcc: <bcc@example.com>
+Subject: CC and BCC
+
+Testing CC and BCC fields.

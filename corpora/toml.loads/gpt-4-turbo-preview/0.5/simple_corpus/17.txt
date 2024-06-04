@@ -1,0 +1,4 @@
+key = """
+    Can include "quotes".
+    And more than one line.
+"""

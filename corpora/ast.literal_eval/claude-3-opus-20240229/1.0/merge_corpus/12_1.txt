@@ -1,0 +1,1 @@
+{'list': [data, data], 'tuple': (data, data), 'set': {data, data}}

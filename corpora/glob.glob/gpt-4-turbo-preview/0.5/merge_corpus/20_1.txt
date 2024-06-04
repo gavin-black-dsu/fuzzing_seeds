@@ -1,0 +1,1 @@
+test_folder/**/special_[!a-z].txt

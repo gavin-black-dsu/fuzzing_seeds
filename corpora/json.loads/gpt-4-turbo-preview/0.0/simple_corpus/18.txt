@@ -1,0 +1,1 @@
+{"data": {"attributes": {"name": "John Doe", "age": 30, "city": "New York"}, "type": "person"}}

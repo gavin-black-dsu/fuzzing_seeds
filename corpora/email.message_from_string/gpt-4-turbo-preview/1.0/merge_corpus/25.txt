@@ -1,0 +1,3 @@
+To: recipient@example.com
+
+Only To header present with body.

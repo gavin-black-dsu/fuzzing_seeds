@@ -1,0 +1,4 @@
+key = ['string', "Another string", '''Multiline
+String''', """Another
+Multiline
+String"""]

@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Special Characters !@#$%^&*()_+
+
+Body with special characters !@#$%^&*()_+

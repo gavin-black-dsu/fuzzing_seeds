@@ -1,0 +1,1 @@
+{"model": "forum.Thread", "pk": 1, "fields": {"title": "Discussion", "author": "user123", "content": "Let's talk about Python"}}

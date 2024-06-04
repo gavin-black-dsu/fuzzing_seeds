@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: np.sum(np.abs(x)*np.sin(x) + np.log1p(np.abs(x))), x0=np.random.rand(10) - 0.5, method='BFGS')

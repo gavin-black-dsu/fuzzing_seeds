@@ -1,0 +1,1 @@
+"escaped\"quote"@example.com

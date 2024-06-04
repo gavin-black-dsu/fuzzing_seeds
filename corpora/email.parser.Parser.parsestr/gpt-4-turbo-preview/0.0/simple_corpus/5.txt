@@ -1,0 +1,8 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test
+
+Body with
+=0A=0D
+=3D
+=?utf-8?Q?=C3=89?= encoded characters

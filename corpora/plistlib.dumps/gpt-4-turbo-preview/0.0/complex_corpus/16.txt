@@ -1,0 +1,1 @@
+{'escape_sequences': '\n\t\r\f\b'}

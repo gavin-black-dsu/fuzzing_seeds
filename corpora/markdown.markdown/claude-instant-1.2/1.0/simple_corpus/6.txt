@@ -1,0 +1,3 @@
+> This is a blockquote
+`print('Hello')`
+This includes blockquote and code blocks.

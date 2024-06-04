@@ -1,0 +1,1 @@
+- !!perl/hash:Module::Name { foo: bar, baz: qux }

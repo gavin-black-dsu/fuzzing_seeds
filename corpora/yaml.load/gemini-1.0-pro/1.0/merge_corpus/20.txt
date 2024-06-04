@@ -1,0 +1,4 @@
+!!python/object/new:decimal.Decimal
+- 1.0
+- 3.14
+- some junk

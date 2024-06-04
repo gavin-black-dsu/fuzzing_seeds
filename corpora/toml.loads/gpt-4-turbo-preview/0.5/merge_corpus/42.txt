@@ -1,0 +1,5 @@
+key = """
+    Multi-line string
+    with "quotes", special characters: 	, 
+, and unicode: ❤
+"""

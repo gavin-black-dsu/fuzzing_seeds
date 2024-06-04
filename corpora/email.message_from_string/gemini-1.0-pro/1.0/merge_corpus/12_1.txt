@@ -1,0 +1,18 @@
+From: John Doe <jdoe@machine.example>
+To: Mary Smith <mary@example.net>
+Subject: Saying Hello
+Date: Tue, 15 Nov 1993 12:12:10 -0500
+Message-ID: <1234567890.1234@machine.example>
+
+--
+From: John Doe <jdoe@machine.example>
+To: Mary Smith <mary@example.net>
+Subject: Another message
+Date: Wed, 16 Nov 1993 14:34:56 -0500
+Message-ID: <1234567890.4567@machine.example>
+
+Hi Mary,
+
+How are you today?
+
+John

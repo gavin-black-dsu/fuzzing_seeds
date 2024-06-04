@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+!!map {
+    ? !!str "sequence"
+    : !!seq [
+        !!int "1",
+        !!str "two",
+        !!float "3.0"
+      ]
+  }

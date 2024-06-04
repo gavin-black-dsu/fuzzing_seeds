@@ -1,0 +1,1 @@
+<html><body><h3>Fuzzing</h3><p>Trying out different inputs for BeautifulSoup</p></body></html>

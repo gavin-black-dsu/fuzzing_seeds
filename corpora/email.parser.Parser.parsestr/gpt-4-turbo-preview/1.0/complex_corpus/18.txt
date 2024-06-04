@@ -1,0 +1,10 @@
+Delivered-To: recipient@example.com
+Received: by 10.76.76.76 with SMTP id c12csp2048458edb;
+        Wed, 27 May 2020 04:50:18 -0700 (PDT)
+X-Received: by 2002:a50:eb07:: with SMTP id e7mr31229272edt.12.1590573018292;
+        Wed, 27 May 2020 04:50:18 -0700 (PDT)
+From: sender@example.com
+To: receiver@example.com
+Subject: Email with extensive headers
+
+Body with extensive delivery and receipt headers.

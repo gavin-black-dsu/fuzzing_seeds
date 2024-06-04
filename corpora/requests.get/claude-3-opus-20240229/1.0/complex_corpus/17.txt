@@ -1,0 +1,1 @@
+http://example.com/path?param=%00%00%00%00%00

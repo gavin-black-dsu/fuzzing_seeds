@@ -1,0 +1,5 @@
+X-Random-Header: randomvalue
+From: error@example.com
+Subject: Error Report
+
+An error occurred.

@@ -1,0 +1,1 @@
+{"fields":{"title":"Blog Post 1","pub_date":"2023-01-15T13:00:00Z"},"model":"blog.post","pk":1}

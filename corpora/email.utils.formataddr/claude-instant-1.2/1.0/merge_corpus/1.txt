@@ -1,0 +1,2 @@
+email.utils.formataddr(('Fuzz: %s',
+fuzz))

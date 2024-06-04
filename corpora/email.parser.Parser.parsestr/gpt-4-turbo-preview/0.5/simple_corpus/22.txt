@@ -1,0 +1,5 @@
+From: user@example.com
+To: =?utf-8?Q?Unusual_To?= <recipient@example.com>
+Subject: Encoded To
+
+This email has an encoded To field.

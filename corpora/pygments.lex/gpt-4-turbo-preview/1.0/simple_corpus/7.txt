@@ -1,0 +1,4 @@
+try:
+	file = open('nonexistent.txt', 'r')
+except FileNotFoundError:
+	print('File not found')

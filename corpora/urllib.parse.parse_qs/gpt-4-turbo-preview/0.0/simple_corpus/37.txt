@@ -1,0 +1,1 @@
+q=Python&lang=en&time=full&user=12345&admin=true&debug=%3Cimg%20src=%22x%22%20onerror=%22alert('XSS')%22%3E

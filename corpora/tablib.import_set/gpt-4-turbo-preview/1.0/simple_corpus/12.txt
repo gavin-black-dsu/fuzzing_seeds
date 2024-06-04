@@ -1,0 +1,3 @@
+name,age,location
+gavin,non-numeric,here
+alex,30,there

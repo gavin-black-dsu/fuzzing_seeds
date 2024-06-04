@@ -1,0 +1,6 @@
+From: <user@example.com>
+To: <recipient@example.com>
+Date: Thu, 1 Jan 1970 00:00:00 +0000
+Subject: Old email
+
+The body of an email sent from the epoch!

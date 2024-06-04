@@ -1,0 +1,4 @@
+From: <script>alert('XSS')</script>@example.com
+Subject: Attempt <script>alert('XSS')</script>
+
+Testing for XSS vulnerabilities in email clients.

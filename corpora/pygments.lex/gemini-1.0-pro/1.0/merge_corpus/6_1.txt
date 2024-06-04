@@ -1,0 +1,2 @@
+with open('/tmp/foo', 'w') as f:
+  f.write('Hello, world!')

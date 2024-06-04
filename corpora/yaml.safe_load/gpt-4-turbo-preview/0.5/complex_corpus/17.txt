@@ -1,0 +1,6 @@
+!!seq [
+- !!map {
+  ? !!str 'key'
+  : !!str 'value'
+  }
+]

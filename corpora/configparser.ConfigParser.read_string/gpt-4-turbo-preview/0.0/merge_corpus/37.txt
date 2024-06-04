@@ -1,0 +1,25 @@
+[section]
+key = value
+
+[section2]
+key = value
+
+[section3]
+key = value
+key2 = value2
+
+[section4]
+key = value
+key2 = value2
+
+[section5]
+key = value
+key2 = value2
+
+[section6]
+key = value
+key2 = value2
+
+[section7]
+key = value
+key2 = value2

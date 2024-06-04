@@ -1,0 +1,5 @@
+a:
+  ? |-
+    This is a key
+    that has multiple lines
+  : And this is its value

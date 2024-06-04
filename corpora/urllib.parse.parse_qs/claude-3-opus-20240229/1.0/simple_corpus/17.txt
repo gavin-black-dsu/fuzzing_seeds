@@ -1,0 +1,1 @@
+q=foo%C2%A9bar%C2%AEbaz%E2%98%83qux%F0%9F%98%80quux

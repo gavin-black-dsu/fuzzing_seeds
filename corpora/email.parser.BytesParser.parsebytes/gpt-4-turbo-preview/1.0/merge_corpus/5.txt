@@ -1,0 +1,8 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Multi
+-part message
+
+This email
+ has improperly
+ split headers.

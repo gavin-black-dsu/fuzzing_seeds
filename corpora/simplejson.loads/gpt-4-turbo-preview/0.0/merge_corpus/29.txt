@@ -1,0 +1,1 @@
+{"object_with_booleans": {"true": true, "false": false}}

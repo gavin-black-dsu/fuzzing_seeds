@@ -1,0 +1,1 @@
+paramiko.SSHClient().connect('tcp://1.2.3.4:22', username='user', password='pass')

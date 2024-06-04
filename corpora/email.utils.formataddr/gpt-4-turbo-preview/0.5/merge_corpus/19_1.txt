@@ -1,0 +1,1 @@
+('Name With Cyrillic ЯБГ', 'cyrillic@example.com')

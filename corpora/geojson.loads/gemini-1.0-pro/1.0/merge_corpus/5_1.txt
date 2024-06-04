@@ -1,0 +1,32 @@
+
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "GeometryCollection",
+          "geometries": [
+            {
+              "type": "Point",
+              "coordinates": [
+                -122.4194,
+                37.7749
+              ]
+            },
+            {
+              "type": "LineString",
+              "coordinates": [
+                [-122.4194, 37.7749],
+                [-122.4299, 37.7821]
+              ]
+            }
+          ]
+        },
+        "properties": {
+          "name": "Golden Gate Bridge complex"
+        }
+      }
+    ]
+  }
+  

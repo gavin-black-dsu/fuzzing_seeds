@@ -1,0 +1,1 @@
+requests.get('http://example.com/search/', params={'query': 'fuzzing'}, data={'param1': 'value1', 'param2': 'value2'})

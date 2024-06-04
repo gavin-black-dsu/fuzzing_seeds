@@ -1,0 +1,4 @@
+[DEFAULT]
+
+[section]
+key=${:unknownvar}

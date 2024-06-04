@@ -1,0 +1,1 @@
+('Name With Special Characters !#$%&'*+-/=?^_`{|}~, 'special@characters.com')

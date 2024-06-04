@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Repeating headers
+Subject: Duplicate subject
+
+Body with duplicate headers.

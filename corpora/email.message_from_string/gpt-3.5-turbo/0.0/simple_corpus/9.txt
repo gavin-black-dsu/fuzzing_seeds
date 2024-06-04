@@ -1,0 +1,8 @@
+Subject: Test Email
+From: sender@example.com
+To: recipient@example.com
+
+This is a test email message.
+Attachment: file.txt
+Attachment: image.jpg
+Attachment: document.docx

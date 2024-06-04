@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Subject with newline
+
+Body starts after newline in subject.
+Subject: Should not be recognized as header.

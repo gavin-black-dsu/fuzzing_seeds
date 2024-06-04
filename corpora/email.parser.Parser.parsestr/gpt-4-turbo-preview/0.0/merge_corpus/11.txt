@@ -1,0 +1,7 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Multiline
+ Header
+
+Body with
+multiline header

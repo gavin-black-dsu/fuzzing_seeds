@@ -1,0 +1,5 @@
+From: invalid email
+To: also invalid
+Subject: Test
+
+Invalid email addresses.

@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+
+Starting with headers but the subject is missing and there are extra new lines at the end.
+
+

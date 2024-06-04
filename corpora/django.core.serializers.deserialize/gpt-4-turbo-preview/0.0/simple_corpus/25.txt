@@ -1,0 +1,1 @@
+[{"model": "app.model", "pk": 1, "fields": {"deep_nesting": {"level1": {"level2": {"level3": "value"}}}}}]

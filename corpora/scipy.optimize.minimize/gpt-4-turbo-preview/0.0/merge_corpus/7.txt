@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: np.tan(x) - x, x0=3, method='BFGS')

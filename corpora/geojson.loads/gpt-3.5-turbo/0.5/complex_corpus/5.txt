@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "MultiPoint Example"}, "geometry": {"type": "MultiPoint", "coordinates": [[0, 0], [1, 1], [2, 2]]}}]}

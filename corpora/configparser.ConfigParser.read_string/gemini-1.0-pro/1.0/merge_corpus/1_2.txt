@@ -1,0 +1,5 @@
+[databases]
+    server = localhost
+    username=examples
+    password=example
+    

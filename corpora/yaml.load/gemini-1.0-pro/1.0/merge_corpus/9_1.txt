@@ -1,0 +1,8 @@
+'---
+type: character
+name: Ken
+spells:
+  - fire
+  - ice
+  - wind
+---'

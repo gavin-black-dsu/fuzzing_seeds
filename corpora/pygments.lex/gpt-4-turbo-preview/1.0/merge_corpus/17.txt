@@ -1,0 +1,2 @@
+async def fetch_data():
+	await other_function()

@@ -1,0 +1,7 @@
+Received: by 10.0.0.1 with SMTP id 8mr21140939wfa.9.1587390879462;
+        Fri, 20 Apr 2023 12:34:39 -0700 (PDT)
+From: user@example.com
+To: recipient@example.com
+Subject: Email with Received header
+
+Testing inclusion of SMTP Received headers.

@@ -1,0 +1,1 @@
+<html><head><style>@import 'style.css';</style></head><body><h1>CSS Import</h1></body></html>

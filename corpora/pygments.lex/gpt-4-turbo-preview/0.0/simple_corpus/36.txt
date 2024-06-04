@@ -1,0 +1,2 @@
+import zlib
+zlib.compress(b'hello world')

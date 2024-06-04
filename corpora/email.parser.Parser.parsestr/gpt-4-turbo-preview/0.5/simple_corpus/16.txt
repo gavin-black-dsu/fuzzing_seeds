@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test
+X-Unusual-Header: value
+
+This email has an unusual header.

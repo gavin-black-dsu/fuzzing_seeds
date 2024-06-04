@@ -1,0 +1,6 @@
+data = 'From: test@test.com
+Date: Thu, 1 Jan 1970 00:00:00 +0000
+Subject: test
+
+test message
+'

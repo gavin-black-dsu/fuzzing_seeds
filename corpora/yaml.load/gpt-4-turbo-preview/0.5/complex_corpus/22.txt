@@ -1,0 +1,3 @@
+quoted_scalars: "a multiline
+string with
+new lines"

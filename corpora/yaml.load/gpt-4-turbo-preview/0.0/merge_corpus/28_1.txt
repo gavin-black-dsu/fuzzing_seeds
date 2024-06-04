@@ -1,0 +1,4 @@
+---
+- !!python/object/apply:module.submodule.function
+  args: [arg1, arg2]
+  kwds: {key: value}

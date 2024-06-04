@@ -1,0 +1,4 @@
+To: recipient@example.com
+Subject: Missing from
+
+This email intentionally left the From header.

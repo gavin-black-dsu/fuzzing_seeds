@@ -1,0 +1,1 @@
+lambda x: x**2 and [1, 2, 3] **{**{}:range(10)} or x

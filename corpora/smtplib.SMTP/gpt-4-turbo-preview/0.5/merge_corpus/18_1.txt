@@ -1,0 +1,1 @@
+user:name@password:smtp.example.com:465

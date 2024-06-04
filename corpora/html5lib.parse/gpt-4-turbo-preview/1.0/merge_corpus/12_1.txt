@@ -1,0 +1,1 @@
+<html><head><link rel='stylesheet' href='styles.css'></head><body><img src='logo.png' alt='Company logo'><p>Broken image paths and missing resources.</p></body></html>

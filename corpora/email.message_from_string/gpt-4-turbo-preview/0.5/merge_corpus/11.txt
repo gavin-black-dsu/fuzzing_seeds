@@ -1,0 +1,5 @@
+From: user@example.com
+To: user@example.com
+Subject: 
+
+Body with empty subject

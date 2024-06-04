@@ -1,0 +1,6 @@
+From: user@example.com
+To: user@example.com
+Subject: 
+Content-Type: text/plain; charset="utf-8"
+
+Body with content type in body.

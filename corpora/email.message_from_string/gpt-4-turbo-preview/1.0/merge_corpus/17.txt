@@ -1,0 +1,5 @@
+From: user@example.com; malicious code injection attempt
+To: recipient@example.com
+Subject: Test Email
+
+Body with an attempt to inject malicious code through header manipulation.

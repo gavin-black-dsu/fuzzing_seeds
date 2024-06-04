@@ -1,0 +1,1 @@
+&#x3C;script&#x3E;alert('Encoded XSS')&#x3C;/script&#x3E;

@@ -1,0 +1,3 @@
+From user@example.com To recipient@example.com Subject: Missing headers
+
+Email body without proper headers.

@@ -1,0 +1,1 @@
+<object data="javascript:alert(2)"></object>

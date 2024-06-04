@@ -1,0 +1,1 @@
+{"sparse_array": [1, null, 3, null, 5]}

@@ -1,0 +1,1 @@
+glob.glob('{a,b}{c,d}')

@@ -1,0 +1,1 @@
+<html><head><title>Base64 Img</title></head><body><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAU...fuzz..."></body></html>

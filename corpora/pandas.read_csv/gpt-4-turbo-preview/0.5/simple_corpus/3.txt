@@ -1,0 +1,3 @@
+product,price,quantity
+Laptop,1200.99,3
+Smartphone,999.99,5

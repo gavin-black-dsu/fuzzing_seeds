@@ -1,0 +1,1 @@
+data = 'From: <sender@example.com>\nContent-Type: invalid\n\nTest Message'

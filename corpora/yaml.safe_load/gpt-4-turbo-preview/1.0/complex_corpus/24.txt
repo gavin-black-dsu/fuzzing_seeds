@@ -1,0 +1,1 @@
+value: !!python/name:__main__.CustomClass

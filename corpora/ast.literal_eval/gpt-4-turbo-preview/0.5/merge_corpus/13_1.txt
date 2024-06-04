@@ -1,0 +1,1 @@
+{'int': 1, 'float': 2.3, 'complex': 3+4j}

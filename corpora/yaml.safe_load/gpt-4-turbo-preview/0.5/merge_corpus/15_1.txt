@@ -1,0 +1,9 @@
+- &a
+  name: Alice
+  age: 25
+- &b
+  name: Bob
+  age: 30
+- name: Carl
+  age: 35
+  friends: [*a, *b]

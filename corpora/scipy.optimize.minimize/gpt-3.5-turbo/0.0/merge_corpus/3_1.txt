@@ -1,0 +1,1 @@
+scipy.optimize.minimize('abc', [0, 0], method='BFGS')

@@ -1,0 +1,1 @@
+<html><head><title>Fuzz</title></head><body><div style='background-image:url(javascript:alert("Fuzz"));'>Fuzz</div></body></html>

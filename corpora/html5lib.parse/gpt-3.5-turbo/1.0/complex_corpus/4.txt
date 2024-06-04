@@ -1,0 +1,1 @@
+html5lib.parse('<script>alert('XSS')</script>')

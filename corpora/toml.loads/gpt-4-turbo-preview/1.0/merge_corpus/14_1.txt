@@ -1,0 +1,2 @@
+[[table]]
+key = [{nestedKey = "value1"}, {nestedKey = "value2"}]

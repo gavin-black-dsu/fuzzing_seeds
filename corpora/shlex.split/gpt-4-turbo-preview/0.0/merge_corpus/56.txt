@@ -1,0 +1,1 @@
+text with | pipe and > redirection < and * wildcard ?

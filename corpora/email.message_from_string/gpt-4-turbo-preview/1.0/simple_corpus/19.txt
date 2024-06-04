@@ -1,0 +1,6 @@
+From: "User Example" <user@example.com>
+To: "Recipient Example" <recipient@example.com>
+Subject: Test Email with quoted-printable encoding
+Content-Transfer-Encoding: quoted-printable
+
+This is a test email with = quoted-printable encoding.

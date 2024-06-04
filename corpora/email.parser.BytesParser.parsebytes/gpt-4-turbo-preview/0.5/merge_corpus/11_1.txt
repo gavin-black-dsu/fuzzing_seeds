@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Email with invalid headers
+X-Invalid-Header: \ud83d\ude00
+
+Body with invalid Unicode character in header.

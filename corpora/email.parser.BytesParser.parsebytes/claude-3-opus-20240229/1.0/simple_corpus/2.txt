@@ -1,0 +1,6 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Test email
+X-Custom-Header: Custom value
+
+This is a test email.

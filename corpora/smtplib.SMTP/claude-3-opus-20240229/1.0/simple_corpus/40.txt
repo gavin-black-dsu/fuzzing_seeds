@@ -1,0 +1,1 @@
+\nsmtp.example.com:25

@@ -1,0 +1,3 @@
+username|age|birthday
+admin|25|1998-01-01
+guest|30|1993-05-12

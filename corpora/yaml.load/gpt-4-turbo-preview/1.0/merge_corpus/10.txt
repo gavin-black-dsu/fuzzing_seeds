@@ -1,0 +1,2 @@
+version: '1.0'
+command: !!python/object/apply:subprocess.check_output [['ls', '/']]

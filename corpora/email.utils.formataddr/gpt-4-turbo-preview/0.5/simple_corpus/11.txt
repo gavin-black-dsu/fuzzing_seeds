@@ -1,0 +1,1 @@
+('Name With UTF8 😊', 'utf8@example.com')

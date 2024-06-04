@@ -1,0 +1,1 @@
+{'mixed_types': [1, '2', 3.0, True, None, {'key': 'value'}]}

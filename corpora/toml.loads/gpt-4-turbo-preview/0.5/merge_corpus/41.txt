@@ -1,0 +1,1 @@
+key = [1, 2.34, false, "str", [1, 2], { key = "value" },]

@@ -1,0 +1,6 @@
+From: user@example.com
+X-Random-Header: Test
+To: recipient@example.com
+Subject: Custom header
+
+Email with a custom header.

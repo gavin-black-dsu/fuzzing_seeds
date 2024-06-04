@@ -1,0 +1,2 @@
+key_with_anchor: &anchor value
+key_reference: *anchor

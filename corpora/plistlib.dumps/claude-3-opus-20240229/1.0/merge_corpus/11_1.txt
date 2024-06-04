@@ -1,0 +1,1 @@
+{data: {"key": "value", "int": 42, "bool": True, "list": [1, 2, 3]}}

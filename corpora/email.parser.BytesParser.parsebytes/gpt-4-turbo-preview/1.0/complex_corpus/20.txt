@@ -1,0 +1,4 @@
+From: "=?UTF-8?B?4YSo4YSo4YSo?=" <encoded@example.com>
+Subject: Base64 encoded name
+
+Body with Base64 encoded from name.

@@ -1,0 +1,1 @@
+a: !!python/object/apply:os.execve ['ls', ['ls'], !!omap]

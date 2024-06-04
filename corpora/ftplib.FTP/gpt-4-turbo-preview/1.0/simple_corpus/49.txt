@@ -1,0 +1,1 @@
+ftp://USER:PASS@example.COM

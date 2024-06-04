@@ -1,0 +1,1 @@
+{'long_string': 'This is a very long string that contains a lot of characters and spans across multiple lines to test how the plistlib.dumps function handles long strings.'}

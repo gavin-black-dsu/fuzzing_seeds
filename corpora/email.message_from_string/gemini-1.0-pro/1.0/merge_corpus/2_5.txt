@@ -1,0 +1,14 @@
+ multipart/mixed
+
+--i3J74860785865637
+Content-Type: text/plain; charset=utf-8
+
+Hello, world!
+
+--i3J74860785865637
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename=test.bin
+
+Hello, world!
+
+--i3J74860785865637--

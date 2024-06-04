@@ -1,0 +1,3 @@
+a: !!str 'multi
+line
+string'

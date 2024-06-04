@@ -1,0 +1,5 @@
+From: user@example.com
+To: user2@example.com
+Content-Type: text/html; charset="utf-8"
+
+<html><body>This is a <b>bold</b> email.</body></html>

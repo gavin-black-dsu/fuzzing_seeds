@@ -1,0 +1,1 @@
+{file1,file2}.{ext1,ext2}

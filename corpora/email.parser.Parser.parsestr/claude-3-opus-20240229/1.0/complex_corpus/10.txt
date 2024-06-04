@@ -1,0 +1,6 @@
+From: "John Doe" <johndoe@example.com>
+To: "Jane Doe" <janedoe@example.com>
+Subject: Test Email
+X-Custom-Header: Custom Value
+
+This is a test email with a custom header.

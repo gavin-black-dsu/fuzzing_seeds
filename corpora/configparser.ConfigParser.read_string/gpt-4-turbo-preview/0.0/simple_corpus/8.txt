@@ -1,0 +1,3 @@
+[section]
+= value
+key2 = value2

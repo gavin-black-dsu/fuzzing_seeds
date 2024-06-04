@@ -1,0 +1,7 @@
+mixed_types:
+  - str
+  - 123
+  - 45.67
+  - null
+  - true
+  - [1, 2, 3]

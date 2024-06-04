@@ -1,0 +1,1 @@
+<html><body><figure><img src="image.jpg" alt="Description"><figcaption>Caption</figcaption></figure></body></html>

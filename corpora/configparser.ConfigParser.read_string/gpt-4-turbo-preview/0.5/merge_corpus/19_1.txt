@@ -1,0 +1,4 @@
+[section]
+key=value
+[section2]
+key2: "A value with a # comment"

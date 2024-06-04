@@ -1,0 +1,1 @@
+glob.glob('/home/*/foo*/*.{py,csv}*')

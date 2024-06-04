@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><form><button formaction='javascript:alert(1)'>Click me</button></form></body></html>

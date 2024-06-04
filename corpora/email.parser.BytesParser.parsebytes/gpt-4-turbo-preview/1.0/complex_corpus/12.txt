@@ -1,0 +1,5 @@
+From: user@example.com
+Subject: Embedded
+ newlines
+
+Body with embedded newlines in header value.

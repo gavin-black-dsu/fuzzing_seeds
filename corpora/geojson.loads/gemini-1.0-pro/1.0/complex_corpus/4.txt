@@ -1,0 +1,34 @@
+
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiPolygon",
+          "coordinates": [
+            [
+              [
+                [-122.4194, 37.7749],
+                [-122.4299, 37.7821],
+                [-122.4085, 37.7901],
+                [-122.4194, 37.7749]
+              ]
+            ],
+            [
+              [
+                [-122.4567, 37.7987],
+                [-122.4432, 37.8092],
+                [-122.4289, 37.8024],
+                [-122.4567, 37.7987]
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "Golden Gate Park and Presidio"
+        }
+      }
+    ]
+  }
+  

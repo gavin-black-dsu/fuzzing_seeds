@@ -1,0 +1,1 @@
+"quoted string with \"double quotes\" inside"

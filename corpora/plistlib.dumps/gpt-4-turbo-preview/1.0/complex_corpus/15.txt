@@ -1,0 +1,1 @@
+{'recursive': {'self': 'self_reference'}}

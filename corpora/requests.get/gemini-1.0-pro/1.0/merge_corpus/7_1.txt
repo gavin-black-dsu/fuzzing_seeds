@@ -1,0 +1,1 @@
+https://example.com/api/v6/users/me/orders?status=new

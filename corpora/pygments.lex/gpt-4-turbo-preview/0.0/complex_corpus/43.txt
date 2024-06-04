@@ -1,0 +1,4 @@
+import csv
+with open('some.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Column 1', 'Column 2', 'Column 3'])

@@ -1,0 +1,2 @@
+[{"model": "app.model", "pk": 1, "fields": {"text": "Long text
+New line"}}]

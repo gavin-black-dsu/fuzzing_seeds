@@ -1,0 +1,1 @@
+FOO <username+weird-username@example.com>

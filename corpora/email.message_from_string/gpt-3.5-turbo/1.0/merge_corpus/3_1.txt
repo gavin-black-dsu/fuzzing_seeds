@@ -1,0 +1,4 @@
+From: 
+To: recipient@example.com
+Subject: Empty Message
+

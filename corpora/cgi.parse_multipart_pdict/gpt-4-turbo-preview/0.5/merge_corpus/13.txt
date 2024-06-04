@@ -1,0 +1,6 @@
+--boundary
+Content-Disposition: form-data; name="xml"; filename="data.xml"
+Content-Type: application/xml
+
+<?xml version="1.0"?><note><to>User</to><from>Server</from><body>Test</body></note>
+--boundary--

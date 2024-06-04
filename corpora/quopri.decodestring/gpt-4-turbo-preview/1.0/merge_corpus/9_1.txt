@@ -1,0 +1,1 @@
+Normal text mixed with=20encoded pieces

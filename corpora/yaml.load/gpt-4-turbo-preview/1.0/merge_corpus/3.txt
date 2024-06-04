@@ -1,0 +1,3 @@
+a: !!python/name:__import__ os
+b: !!python/name:os.system
+c: !!str `cat /etc/passwd`

@@ -1,0 +1,1 @@
+<html><body><svg onload='alert("SVG onload event")'></svg></body></html>

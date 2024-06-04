@@ -1,0 +1,8 @@
+[animals]
+[animals.pets]
+species = "cat"
+name = "fluffy"
+
+[animals.pets] 
+species = "dog"
+name = "fido"

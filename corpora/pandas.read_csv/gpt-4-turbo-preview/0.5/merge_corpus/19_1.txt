@@ -1,0 +1,3 @@
+mixed types
+1, 'text', 0.1
+'another line', 200, 0.2

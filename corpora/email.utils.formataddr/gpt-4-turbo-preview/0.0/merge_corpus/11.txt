@@ -1,0 +1,1 @@
+('Spaces After    ', 'spaces@example.com')

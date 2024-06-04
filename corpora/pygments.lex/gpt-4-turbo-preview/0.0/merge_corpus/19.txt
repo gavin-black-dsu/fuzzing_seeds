@@ -1,0 +1,4 @@
+try:
+    import module
+except ImportError:
+    print('Module not found')

@@ -1,0 +1,1 @@
+{"type": "LineString", "coordinates": [[22, 34], [23, 30], [24, 44]]}

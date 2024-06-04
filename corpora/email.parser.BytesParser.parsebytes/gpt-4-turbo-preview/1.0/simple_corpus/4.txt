@@ -1,0 +1,5 @@
+Subject: =?utf-8?B?U3DDpWNpYWwgY2hhcmFjdGVycyDDtm5kZXLDp2U=?=
+From: =?utf-8?B?dMOpcmVrQGV4YW1wbGUuY29t?= <user@example.com>
+To: recipient@example.com
+
+This email contains special encoded characters in the headers.

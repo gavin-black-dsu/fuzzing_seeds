@@ -1,0 +1,1 @@
+bytes([x for x in range(256)])

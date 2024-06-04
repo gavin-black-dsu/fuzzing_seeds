@@ -1,0 +1,1 @@
+large_number: !!float 1e+300

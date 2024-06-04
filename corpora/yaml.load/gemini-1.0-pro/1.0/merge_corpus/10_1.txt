@@ -1,0 +1,7 @@
+'---
+name: Lucy
+occupation: doctor
+experience:
+  - Hospital A: 10 years
+  - Hospital B: 5 years
+---'

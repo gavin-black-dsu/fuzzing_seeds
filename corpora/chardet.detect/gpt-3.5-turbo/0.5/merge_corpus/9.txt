@@ -1,0 +1,1 @@
+Testing the chardet.detect(data) function with various input data.

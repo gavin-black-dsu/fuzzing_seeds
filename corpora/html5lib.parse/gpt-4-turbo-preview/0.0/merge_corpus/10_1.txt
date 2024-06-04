@@ -1,0 +1,1 @@
+<a href='javascript:alert("fuzz")'>Click me</a>

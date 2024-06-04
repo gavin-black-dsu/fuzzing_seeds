@@ -1,0 +1,4 @@
+product_id,product_name,product_price
+001,"Laptop, 15' inch",$999.99
+002,"Smartphone ""XBrand""",$599.99
+003,Tablet,$299.99

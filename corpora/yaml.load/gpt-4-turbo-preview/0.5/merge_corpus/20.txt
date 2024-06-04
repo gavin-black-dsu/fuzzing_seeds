@@ -1,0 +1,1 @@
+a: !!python/object/apply:eval args: ['__import__("os").system("echo hello")']

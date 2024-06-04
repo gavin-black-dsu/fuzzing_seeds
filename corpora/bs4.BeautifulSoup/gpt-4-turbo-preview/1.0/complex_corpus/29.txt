@@ -1,0 +1,1 @@
+<menu type='context'><menuitem label='Refresh' onclick='location.reload()'></menuitem></menu>

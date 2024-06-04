@@ -1,0 +1,6 @@
+string_block: |
+  This is a literal block of text.
+
+  Newlines will be preserved.
+
+  Indentation will also be preserved.

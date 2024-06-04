@@ -1,0 +1,5 @@
+From: "User, Example" <user@example.com>
+Date: Thu, 1 Jan 1970 00:00:00 +0000
+Subject: Special chars !#$%&'*+-/=?^_`{|}~ in headers
+
+Email with special characters in header.

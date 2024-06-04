@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: np.sum(x**2) - np.prod(x), [-2.0, 4.0, -3.0], method='BFGS')

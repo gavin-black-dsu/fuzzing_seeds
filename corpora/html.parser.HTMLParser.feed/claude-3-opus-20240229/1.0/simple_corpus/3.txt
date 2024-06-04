@@ -1,0 +1,1 @@
+<html><body><a href='javascript:alert(1)'>Click me</a></body></html>

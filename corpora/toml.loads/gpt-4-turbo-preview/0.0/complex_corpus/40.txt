@@ -1,0 +1,2 @@
+[table] # Comment
+key = 'value' # Another comment

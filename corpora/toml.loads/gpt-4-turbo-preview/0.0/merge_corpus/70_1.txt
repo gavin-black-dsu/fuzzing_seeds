@@ -1,0 +1,9 @@
+key = 0x2A
+key2 = 0o755
+key3 = 0b101010
+key4 = 2023-12-31T23:59:59Z
+key5 = 2023-12-31
+key6 = 23:59:59
+key7 = inf
+key8 = nan
+key9 = [1, 2.34, 'string', true, [1, 2, 3], {key = 'value'}]

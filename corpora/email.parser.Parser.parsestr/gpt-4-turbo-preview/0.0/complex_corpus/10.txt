@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Invalid Header
+X-Invalid-Header: 
+
+Body with binary in header.

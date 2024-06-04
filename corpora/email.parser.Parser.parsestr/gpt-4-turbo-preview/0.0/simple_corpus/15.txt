@@ -1,0 +1,9 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test
+
+Body with
+invalid headers
+Invalid: Header
+
+Valid body

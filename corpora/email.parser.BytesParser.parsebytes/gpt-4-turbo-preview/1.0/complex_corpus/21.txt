@@ -1,0 +1,7 @@
+From: user@example.com
+To: user2@example.com
+Cc: admin@example.com
+Bcc: hidden@example.com
+Subject: Sending to multiple recipients
+
+This email is sent to multiple recipients with CC and BCC.

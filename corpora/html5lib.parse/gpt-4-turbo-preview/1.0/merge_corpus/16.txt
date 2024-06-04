@@ -1,0 +1,1 @@
+<html><head></head><body><form action="javascript:alert('fuzz')"><input type="submit"></form></body></html>

@@ -1,0 +1,12 @@
+From: Sender <sender@example.com>
+To: Recipient <recipient@example.com>
+Cc: cc@example.com
+Date: Tue, 1 Jan 2020 00:00:00 +0000
+Message-ID: <1234@example.com>
+Subject: Hello
+X-Mailer: My Mail User (2.1.0)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello!

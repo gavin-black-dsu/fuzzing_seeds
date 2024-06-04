@@ -1,0 +1,16 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Attachments
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary_string"
+
+--boundary_string
+Content-Type: text/plain
+
+This is the message body.
+--boundary_string
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="example.txt"
+
+This is the content of the file.
+--boundary_string--

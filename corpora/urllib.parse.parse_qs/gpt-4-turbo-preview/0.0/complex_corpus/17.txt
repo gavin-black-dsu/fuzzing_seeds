@@ -1,0 +1,1 @@
+array[]=value1&array[]=value2&array[]=value3

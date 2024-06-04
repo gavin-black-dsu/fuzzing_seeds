@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Content-Type: multipart/form-data; boundary=AaB03x
+
+--AaB03x
+Content-Disposition: form-data; name="file"; filename="test.txt"
+
+This is the content of the file.

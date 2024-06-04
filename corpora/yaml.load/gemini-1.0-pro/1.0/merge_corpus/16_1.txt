@@ -1,0 +1,7 @@
+'---
+name: Ronald
+skills:
+  - programming
+  - problem-solving
+  - communication
+---'

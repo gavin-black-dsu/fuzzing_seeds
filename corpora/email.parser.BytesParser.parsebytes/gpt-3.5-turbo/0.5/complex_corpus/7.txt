@@ -1,0 +1,7 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Test email
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGJvZHk+VGhpcyBpcyBhIHRlc3QgZW1haWw8L2JvZHk+PC9odG1sPg==

@@ -1,0 +1,7 @@
+From: "John Doe" <johndoe@example.com>
+To: "Jane Doe" <janedoe@example.com>
+Subject: Test Email
+Content-Type: text/plain
+Content-Disposition: inline
+
+This is a test email with inline content disposition.

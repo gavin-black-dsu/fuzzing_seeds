@@ -1,0 +1,1 @@
+[{"model": "app.model", "pk": 1, "fields": {"new_lines": "First line\nSecond line"}}]

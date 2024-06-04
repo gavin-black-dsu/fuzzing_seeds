@@ -1,0 +1,1 @@
+user:password@192.0.2.1:21/path?query#fragment

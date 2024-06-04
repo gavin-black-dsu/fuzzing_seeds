@@ -1,0 +1,8 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Quoted-printable encoding
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is the body with =C3=A4=C3=B6=C3=BC characters.

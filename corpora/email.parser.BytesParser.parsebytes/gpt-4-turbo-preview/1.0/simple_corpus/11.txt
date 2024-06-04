@@ -1,0 +1,5 @@
+From: user@invalid
+To: recipient@invalid
+Subject: Invalid emails
+
+Testing with invalid email addresses in the headers.

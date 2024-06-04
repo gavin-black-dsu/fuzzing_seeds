@@ -1,0 +1,2 @@
+[section]
+key="A long value with special characters: !@#$%^&*()_+-=[]{}|;':,.<>/?\""

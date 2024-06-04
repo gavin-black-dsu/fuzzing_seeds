@@ -1,0 +1,4 @@
+!!python/object/new:tuple
+- !!python/name:__import__
+- ['os']
+- {danger: !!python/object/apply:os.system ['echo dangerous']}

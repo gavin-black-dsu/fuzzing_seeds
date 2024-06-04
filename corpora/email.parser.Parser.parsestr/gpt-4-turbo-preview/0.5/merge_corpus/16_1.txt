@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Non-ASCII characters
+
+Body with non-ASCII characters: äöüß.

@@ -1,0 +1,7 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test email with incorrect header
+MIME-Version: 1.0
+Content-Type text/plain; charset="utf-8"
+
+Body with missing colon in header.

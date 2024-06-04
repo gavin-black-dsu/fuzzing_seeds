@@ -1,0 +1,2 @@
+non-ASCII characters,ñ,ö,ü
+ç,ß,Ø

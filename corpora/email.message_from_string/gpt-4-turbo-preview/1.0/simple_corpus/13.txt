@@ -1,0 +1,9 @@
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset=utf-8
+
+This is the body of the message.
+
+--boundary-string--

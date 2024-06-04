@@ -1,0 +1,4 @@
+---
+- just: a list
+- with: several elements
+- including: a map

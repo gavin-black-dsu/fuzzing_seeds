@@ -1,0 +1,1 @@
+<html><head><style>@import 'http://evil.com/evil.css';</style></head><body>Test</body></html>

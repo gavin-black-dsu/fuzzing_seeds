@@ -1,0 +1,1 @@
+scipy.optimize.minimize(float('-inf'), {}, method='BFGS')

@@ -1,0 +1,2 @@
+[wrongTable
+key = "no end bracket"

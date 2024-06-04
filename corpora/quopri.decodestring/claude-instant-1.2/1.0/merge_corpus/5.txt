@@ -1,0 +1,1 @@
+quopri.decodestring("spam and eggs")

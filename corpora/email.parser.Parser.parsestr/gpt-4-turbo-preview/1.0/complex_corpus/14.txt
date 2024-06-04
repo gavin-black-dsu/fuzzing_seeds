@@ -1,0 +1,12 @@
+MIME-Version: 1.0
+From: sender@example.com
+To: receiver@example.com
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>This is a test.</p>
+</body>
+</html>

@@ -1,0 +1,4 @@
+From: user@example.com
+Subject: No recipient
+
+This email has no To: field.

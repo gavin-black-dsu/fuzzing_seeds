@@ -1,0 +1,1 @@
+pyexcel.get_sheet(file_type='xls', file_content='https://example.com/data.xls')

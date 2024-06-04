@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: np.log(x[0]) + x[1]**2, x0=[1, 2], method='BFGS')

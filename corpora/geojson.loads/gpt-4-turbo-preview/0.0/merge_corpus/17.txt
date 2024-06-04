@@ -1,0 +1,1 @@
+{"type": "Feature", "geometry": {"type": "Unknown", "coordinates": [125.6, 10.1]}, "properties": {}}

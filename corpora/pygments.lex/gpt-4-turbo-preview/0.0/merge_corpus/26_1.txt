@@ -1,0 +1,3 @@
+import threading
+thread = threading.Thread(target=print, args=('Hello, threads!',))
+thread.start()

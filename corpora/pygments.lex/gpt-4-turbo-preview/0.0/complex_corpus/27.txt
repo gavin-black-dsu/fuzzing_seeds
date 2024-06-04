@@ -1,0 +1,3 @@
+import multiprocessing
+process = multiprocessing.Process(target=print, args=('Hello, processes!',))
+process.start()

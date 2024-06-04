@@ -1,0 +1,6 @@
+X-Invalid-Header: test
+From: user@example.com
+To: recipient@example.com
+Subject: Test Email
+
+Body with an invalid header.

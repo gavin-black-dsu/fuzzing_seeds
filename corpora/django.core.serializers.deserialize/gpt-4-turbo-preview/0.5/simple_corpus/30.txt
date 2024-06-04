@@ -1,0 +1,1 @@
+[{"model": "app.model", "pk": 1, "fields": {"nested_lists": [[1, 2], [3, 4], [5, 6]]}}]

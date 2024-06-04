@@ -1,0 +1,1 @@
+<html><body><div><p>This is a <span>paragraph</span> with <a href='https://www.example.com'><img src='https://www.example.com/image.jpg' alt='example image'></a> inside a <strong>div</strong>.</p></div></body></html>

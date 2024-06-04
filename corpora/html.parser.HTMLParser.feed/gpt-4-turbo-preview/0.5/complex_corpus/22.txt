@@ -1,0 +1,1 @@
+<html><head><base href='http://example.com/' /></head><body><a href='//google.com'>Test</a></body></html>

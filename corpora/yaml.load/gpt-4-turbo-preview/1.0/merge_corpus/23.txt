@@ -1,0 +1,4 @@
+receipt: !!omap
+  - date    : 2001-01-23
+  - !!seq [ item, price ]
+    - !!map { item: Super Hoop, price: 2392 }

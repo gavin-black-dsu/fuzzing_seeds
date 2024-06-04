@@ -1,0 +1,5 @@
+From: <javascript:alert('XSS')> test@example.com 
+To: test2@example.com 
+Subject: Hello
+
+<script>alert('XSS');</script>

@@ -1,0 +1,1 @@
+<html><head><title>Test</title><script>alert("XSS");</script></head><body><h1>Hello, world!</h1></body></html>

@@ -1,0 +1,3 @@
+username	email
+admin	admin@example.com
+user	user@example.com

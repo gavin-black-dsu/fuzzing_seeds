@@ -1,0 +1,1 @@
+Valid=20characters=20followed=20by=20=zz

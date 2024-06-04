@@ -1,0 +1,5 @@
+[section]
+;comment
+key = "value"
+#comment
+key2 = "value2"

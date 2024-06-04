@@ -1,0 +1,2 @@
+Mandelbrot Set, zoom 1024, 15 iterations
+16 colors

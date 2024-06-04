@@ -1,0 +1,1 @@
+data = 'key = '''multi-line\nstring'''\n\n\nkey2 = 123\n\nkey3 = true'

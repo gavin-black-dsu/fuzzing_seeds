@@ -1,0 +1,1 @@
+{"objects":[{"model":"app.model","pk":1,"fields":{"name":"John","birthday":"1980-05-05"}},{"model":"app.model","pk":2,"fields":{"name":"Jane","birthday":"1990-06-06"}}]}

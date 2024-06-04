@@ -1,0 +1,1 @@
+[true, false, null, "Double quoted string", 'Single quoted string', 123]

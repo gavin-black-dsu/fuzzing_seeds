@@ -1,0 +1,1 @@
+<html><head><title>Test</title></head><body><h1>Hello, world!</h1><img src="https://example.com/image.jpg" alt="Example image"><p>This is an image.</p></body></html>

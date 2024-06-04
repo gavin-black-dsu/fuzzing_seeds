@@ -1,0 +1,1 @@
+paramiko.SSHClient().connect('example.com', username='test', password='passw0rd')

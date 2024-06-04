@@ -1,0 +1,9 @@
+--boundary
+Content-Disposition: form-data; name="key1"; filename="file1.txt"
+
+file1 content
+--boundary
+Content-Disposition: form-data; name="key2"; filename="file2.txt"
+
+file2 content
+--boundary--

@@ -1,0 +1,4 @@
+%YAML 1.2
+---
+!!str "Text block with
+new lines and special characters: \" ' {}[]()"

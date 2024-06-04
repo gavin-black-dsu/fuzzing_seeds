@@ -1,0 +1,1 @@
+PIL.Image.open(io.BytesIO(b"\x00"*1024 + b"fuzzy data 3"))

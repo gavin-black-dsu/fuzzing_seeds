@@ -1,0 +1,4 @@
+key= """multi
+line
+value
+with "quotes" inside"""

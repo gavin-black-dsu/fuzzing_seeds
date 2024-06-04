@@ -1,0 +1,1 @@
+[{"model": "app.model", "pk": 1, "fields": {"malformed_json": "[1, 2, 3"}]}]

@@ -1,0 +1,2 @@
+binary_data: !!binary |
+  YmluYXJ5ZGF0YQ==

@@ -1,0 +1,1 @@
+key;with;semicolons=value;with;semicolons

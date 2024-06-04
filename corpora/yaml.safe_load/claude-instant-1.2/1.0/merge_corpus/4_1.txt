@@ -1,0 +1,7 @@
+
+---
+!!map 
+? !!str foo
+: !!str bar
+? !!str baz
+: !!str qux

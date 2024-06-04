@@ -1,0 +1,4 @@
+From: spam@example.com
+Subject: Sale
+
+50% off!

@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><form action=''><input type='text' name='fuzz'><input type='submit'></form></body></html>

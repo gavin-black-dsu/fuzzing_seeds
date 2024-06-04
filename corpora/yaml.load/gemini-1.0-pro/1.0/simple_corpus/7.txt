@@ -1,0 +1,1 @@
+foo: !bad __constructor__ bar

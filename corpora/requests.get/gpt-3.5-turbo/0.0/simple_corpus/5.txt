@@ -1,0 +1,1 @@
+requests.get('http://example.com/?id=1&name=test', params={'key': 'value', 'param': 'test', 'data': '123'})

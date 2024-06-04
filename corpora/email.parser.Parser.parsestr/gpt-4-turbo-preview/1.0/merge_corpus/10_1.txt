@@ -1,0 +1,6 @@
+Date: Tue, 25 Aug 2020 18:30:00 -0500
+From: user@example.com
+To: anotheruser@example.com
+Subject: Time-sensitive info
+
+Note the date might be important.

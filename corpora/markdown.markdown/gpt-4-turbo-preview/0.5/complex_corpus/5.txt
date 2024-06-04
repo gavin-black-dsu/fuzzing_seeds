@@ -1,0 +1,1 @@
+![Alt text for an image](http://example.com/image.png)

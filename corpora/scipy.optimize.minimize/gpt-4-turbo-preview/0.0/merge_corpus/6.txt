@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: (x-3)*(x-5)*(x-7)+45, x0=2, method='BFGS')

@@ -1,0 +1,5 @@
+From: user@example.com
+To: user@example.com
+Subject; Incorrect header delimiter
+
+This uses a semicolon.

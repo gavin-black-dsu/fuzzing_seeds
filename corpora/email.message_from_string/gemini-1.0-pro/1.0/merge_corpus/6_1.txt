@@ -1,0 +1,23 @@
+Message-Id: <462961dbaac09e78f3d6fb0cf7405c77@example.com>
+MIME-Version: 1.0
+Date: 24 Apr 2002 19:19:47 -0000
+From: "=Bob =Doe=?" <bob=doe@example.com>
+Subject: =?utf-8?Q?=?= (see attached)
+To: jdoe@example.com
+Content-Type: multipart/mixed; boundary=blah
+
+This is a multi-part message in MIME format.
+
+--blah
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+Simple text content.
+
+--blah
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+
+RmxhdHR5IGZpc2gu
+
+--blah--

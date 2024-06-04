@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test email
+Content-Type: text/html
+
+<html><body>This is a <b>HTML</b> email.</body></html>

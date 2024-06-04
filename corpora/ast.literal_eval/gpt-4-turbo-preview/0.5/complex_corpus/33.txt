@@ -1,0 +1,1 @@
+{'double_quote_in_string': 'a string with a " double quote'}

@@ -1,0 +1,8 @@
+From: "User, Example" <user@example.com>
+To: "Recipient, Example" <recipient@example.com>
+Subject: Quoted printable
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is the body of the email.

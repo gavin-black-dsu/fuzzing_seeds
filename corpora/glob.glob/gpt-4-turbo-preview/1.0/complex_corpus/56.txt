@@ -1,0 +1,1 @@
+work/{old,new,[a-g]}/*.txt

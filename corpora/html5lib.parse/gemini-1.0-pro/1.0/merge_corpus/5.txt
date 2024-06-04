@@ -1,0 +1,1 @@
+<html><head><title>Test</title></head><body><h1>Hello world!</h1><iframe src="javascript:alert(1)"></body></html>

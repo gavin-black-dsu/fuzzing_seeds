@@ -1,0 +1,2 @@
+ start end  	 tab 
+ newline \backslash  carriage return

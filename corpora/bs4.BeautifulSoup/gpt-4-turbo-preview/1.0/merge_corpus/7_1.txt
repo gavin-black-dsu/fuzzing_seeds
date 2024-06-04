@@ -1,0 +1,1 @@
+<div style='background:url(javascript:alert('test'))'>Test</div>

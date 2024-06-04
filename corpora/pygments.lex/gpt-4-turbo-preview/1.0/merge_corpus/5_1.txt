@@ -1,0 +1,6 @@
+
+def outer_func(x):
+    def inner_func(y):
+        return y * y
+    return lambda z: z * inner_func(x)
+    

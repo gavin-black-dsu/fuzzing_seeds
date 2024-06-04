@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><style>@import url('https://example.com/malicious.css');</style></head><body><h1>Styled Heading</h1></body></html>

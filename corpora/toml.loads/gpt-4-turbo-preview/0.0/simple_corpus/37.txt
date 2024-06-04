@@ -1,0 +1,4 @@
+key = '''
+This is a multiline string
+with more than one line
+'''

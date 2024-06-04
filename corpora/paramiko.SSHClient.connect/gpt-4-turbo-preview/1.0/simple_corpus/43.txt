@@ -1,0 +1,1 @@
+example.com -o 'StrictHostKeyChecking=no'

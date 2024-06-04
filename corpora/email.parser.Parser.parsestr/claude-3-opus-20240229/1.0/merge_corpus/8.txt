@@ -1,0 +1,7 @@
+From: "John Doe" <johndoe@example.com>
+To: "Jane Doe" <janedoe@example.com>
+Subject: Test Email
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is a test email with special characters: =C3=A9=C3=A8=C3=A0=C3=B9=C3=A7

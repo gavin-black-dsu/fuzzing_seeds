@@ -1,0 +1,1 @@
+<html><head><title>Quirks Mode</title><link rel="stylesheet" href="fuzz"></head><body onload="alert('fuzz')">Quirks</body></html>

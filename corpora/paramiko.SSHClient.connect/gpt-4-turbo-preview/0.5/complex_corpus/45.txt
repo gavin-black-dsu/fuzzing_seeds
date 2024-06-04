@@ -1,0 +1,1 @@
+ssh://user%40email.com@ssh.example.com

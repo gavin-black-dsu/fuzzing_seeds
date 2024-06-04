@@ -1,0 +1,1 @@
+numeric=1234&float=12.34&negative=-56

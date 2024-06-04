@@ -1,0 +1,2 @@
+"header with ""embedded quotes""",second header
+"data with ""embedded quotes"" and, commas",second data

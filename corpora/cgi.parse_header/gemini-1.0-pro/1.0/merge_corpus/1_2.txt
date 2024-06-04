@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html>
+
+<head>
+    <title>Fuzzing cgi.parse_header in Python</title>
+</head>
+
+<body>
+    <h1>Success!</h1>
+</body>
+
+</html>

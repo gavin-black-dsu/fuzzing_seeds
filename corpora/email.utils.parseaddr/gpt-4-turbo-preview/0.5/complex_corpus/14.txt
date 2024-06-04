@@ -1,0 +1,1 @@
+Very.long.email.address@example.com.is.very.long.indeed.surely.this.will.break.some.implementations

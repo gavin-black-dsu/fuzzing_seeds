@@ -1,0 +1,1 @@
+import_set('data.json', format='json')

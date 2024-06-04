@@ -1,0 +1,7 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test email
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+Qm9keSBpbnRlbmRlZCBmb3IgYmFzZTY0IGVuY29kaW5nLg==

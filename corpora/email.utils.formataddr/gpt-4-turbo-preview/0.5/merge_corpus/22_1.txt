@@ -1,0 +1,1 @@
+('RepeatedName', 'repeated@example.com' * 10)

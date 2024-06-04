@@ -1,0 +1,5 @@
+From: user@example.com
+To: user@example.com
+Subject: Test
+
+Body with only as line endings, which is incorrect.

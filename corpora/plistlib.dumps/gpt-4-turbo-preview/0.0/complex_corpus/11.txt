@@ -1,0 +1,1 @@
+{'mixed_types': [1, 'two', {'three': 3}, [4, 'five'], True, None]}

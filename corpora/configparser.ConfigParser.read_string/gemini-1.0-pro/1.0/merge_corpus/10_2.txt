@@ -1,0 +1,6 @@
+[section]
+a=b
+c=
+[section2]
+e=f
+g=h

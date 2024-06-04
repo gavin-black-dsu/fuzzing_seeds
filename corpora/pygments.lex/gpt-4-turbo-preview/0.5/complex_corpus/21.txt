@@ -1,0 +1,7 @@
+def decorator_with_args(arg1):
+    def decorator(func):
+        def wrapper(*args, **kwargs):
+            print(f'Argument passed to decorator: {arg1}')
+            return func(*args, **kwargs)
+        return wrapper
+    return decorator

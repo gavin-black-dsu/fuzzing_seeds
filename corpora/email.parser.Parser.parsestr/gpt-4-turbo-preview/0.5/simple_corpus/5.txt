@@ -1,0 +1,3 @@
+Subject: No From, No To
+
+This email lacks both From and To fields.

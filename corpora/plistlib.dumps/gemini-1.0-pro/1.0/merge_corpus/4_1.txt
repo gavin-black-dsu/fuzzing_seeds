@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<plist version='1.0'>
+<dict>
+  <key>foo</key>
+  <data>
+    VGhpcyBpcyBhIGZ1enp5IGRhdGEgZXhhbXBsZS4gVGhhdCBt
+    ZWFucyBleGFjdGx5IGFsbCB0aGUgd29ybGQgYnkgaXQgbmF0
+    dXJhbGl6ZWQuLi4uXG4gIDwvdGFyZ2V0PlxuICA8dGFyZ2V0
+    Pmp1c3QxPnRoaXMgaXMgdGhlIGZpcnN0IHRhcmdldCBiYXNl
+    XiB0aGF0IGlzIGZ1enp5Li4uLiAqKlRoaXMgaXMgYSBjb21t
+    ZW50IG9uIGEgZnV6eiBzdHJpbmcuXG4gIDwvdGFyZ2V0PlxuICA8
+    dGFyZ2V0PlppbnBpYzU0bntiYWNkYXRlcmlhbEZ1enp5U3RyX199
+    PC90YXJnZXQ+XG4gIDwvZGF0YVxuICA8L2tleVxuICA8a2V5
+    >YmFyXG4gIDwvZGF0YVxuICA8L2tleVxuIDx1bnBpbnRpZmll
+    ZVBsaXN0PlxuICA8c3RyaW5nPlZhbHVlIFNldCBVcGRhdGVk
+    PC9zdHJpbmc+XG4gIDxzdHJpbmc+VmFsdWUgd2l0aCBuZXcg
+    bGluZTwvc3RyaW5nPlxuICA8L3VucGludGlmaWVkcE1pc1xu
+    PC9kaWN0PlxuPC9wbGlzdD5cbiA8a2V5PkhlbGxvPC9rZXk+
+ICA8bnVtYmVyPjg8L251bWJlcj5cbiAgPGFycmF5PlxuICA8
+    aW50ZWdlcl4zMjc8L2ludGVnZXI+XG4gIDxmbG9hdD4uNzQ0
+    PC9mbG9hdD5cbiAgPGJvb2w+dHJ1ZTwvYm9vbD5cbiAgPGJyYW 
+    NpPlBZSU1FLTVBUkFMQ0NSSVBUPjwvYnJhbmlhPlxuICA8by8+
+    XG4gIDxwLlw/PlxuICA8dGhpc0lzVGhlUGx1cmFsVmFsdWVcb 
+    m9tPkhlcmVzIGlzIGhvd25pZXMtKiABVmVyaXNpbW9JbnRlc
+    m5h
+ICA8L0hpc1RoaXNBVmFsbWFPckVtcHR5PlxuICA8dXJsPk
+    3l3LmV4YW1wbGUuY29tL3BsaXN0PC91cmw+XG4gIDxkb3VibGVc
+    PjxmbG9hdD4zLjE0PC9mbG9hdD48L2RvdWJsZT5cbiAgPGFy
+    cmF5IGNsYXNzPSdBciBQdXNoaW5nIEZvciBNYW55IFB1cn
+    Bvc2VzJz5cbiAgIDxwbGFjZWhvbGRlcj5Ib3cgbWFueSBwbG
+    FjZWhvbGRlcnMgY2FuIGZpdCBpbnRvIG9uZSBsaW5lPw==
+  </data>
+</dict>
+</plist>

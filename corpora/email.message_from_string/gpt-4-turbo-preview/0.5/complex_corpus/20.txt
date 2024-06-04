@@ -1,0 +1,8 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Non-ASCII characters in headers
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+From: üser@example.com
+
+Body with non-ASCII characters in headers.

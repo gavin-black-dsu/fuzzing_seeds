@@ -1,0 +1,4 @@
+- !!python/name:yaml.load
+- !!python/tuple
+  - !!str 'data'
+  - !!python/name:yaml.FullLoader

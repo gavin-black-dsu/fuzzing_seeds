@@ -1,0 +1,1 @@
+a=b&c=d%BC%BD%BE%BF%C0

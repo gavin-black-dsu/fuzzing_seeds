@@ -1,0 +1,1 @@
+data.csv, format='csv' UNION SELECT * FROM users;

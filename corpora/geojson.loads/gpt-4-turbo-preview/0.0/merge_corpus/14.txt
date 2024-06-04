@@ -1,0 +1,1 @@
+{"type": "Point", "coordinates": "Not a valid array"}

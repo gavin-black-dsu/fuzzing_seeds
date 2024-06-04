@@ -1,0 +1,7 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Test
+Content-Type: text/plain
+MIME-Version: 2.0
+
+This is a test email with an invalid MIME version.

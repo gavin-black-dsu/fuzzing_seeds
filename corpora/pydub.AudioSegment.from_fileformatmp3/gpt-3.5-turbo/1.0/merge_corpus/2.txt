@@ -1,0 +1,1 @@
+pydub.AudioSegment.from_file(io.BytesIO(b'AnotherFuzzingData'), format='mp3')

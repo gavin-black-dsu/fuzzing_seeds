@@ -1,0 +1,1 @@
+<html><head></head><body><p>End tag omission</body></html>

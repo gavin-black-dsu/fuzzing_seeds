@@ -1,0 +1,1 @@
+fi*[[:alpha:]].txt

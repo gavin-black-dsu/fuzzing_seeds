@@ -1,0 +1,4 @@
+```html
+<script>alert("data
+data");</script>
+```

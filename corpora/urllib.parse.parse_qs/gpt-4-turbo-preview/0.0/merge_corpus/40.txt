@@ -1,0 +1,1 @@
+q=Python&lang=en&time=full&user=12345&admin=true&debug=%3Ciframe%20src=%22javascript:alert('XSS')%22%3E

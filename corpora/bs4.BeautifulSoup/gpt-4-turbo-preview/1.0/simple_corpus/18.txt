@@ -1,0 +1,1 @@
+&lt;script&gt;alert('Encoded')&lt;/script&gt;

@@ -1,0 +1,13 @@
+Subject: Test message 6
+MIME-Version: 1.0Content-Type: multipart/mixed; boundary="------------0402050102010705"
+
+This is a multipart message.
+-- ------------0402050102010705
+Content-Type: text/plain; charset=US-ASCII
+
+This is the first part of the multipart message.
+-- ------------0402050102010705
+Content-Type: text/plain; charset=US-ASCII
+
+This is the second part of the multipart message.
+-- ------------0402050102010705--

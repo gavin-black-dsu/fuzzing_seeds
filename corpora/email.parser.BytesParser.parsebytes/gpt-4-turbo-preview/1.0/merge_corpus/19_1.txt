@@ -1,0 +1,10 @@
+--boundary
+Content-Type: text/plain
+
+This is part of a multipart message.
+
+--boundary
+Content-Type: text/html
+
+<html><body><p>This is another part of the same message.</p></body></html>
+--boundary--

@@ -1,0 +1,1 @@
+<html><body><table><tr><th colspan='2'>Header</th></tr><tr><td rowspan='2'>Cell 1</td><td>Cell 2</td></tr><tr><td>Cell 3</td></tr></table></body></html>

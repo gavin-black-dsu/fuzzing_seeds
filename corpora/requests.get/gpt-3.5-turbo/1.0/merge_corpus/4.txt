@@ -1,0 +1,1 @@
+requests.get('http://example.com', params={'key': 'value'})

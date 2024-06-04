@@ -1,0 +1,5 @@
+To: user1@example.com
+From: user2@example.com
+Subject: UTF-8 ñáéíóú
+
+Body contains UTF-8 chars.

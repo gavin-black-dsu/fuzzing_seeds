@@ -1,0 +1,1 @@
+('Name With % Percent Sign', 'percent@example.com')

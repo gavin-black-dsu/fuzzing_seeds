@@ -1,0 +1,1 @@
+import base64; ftplib.FTP(base64.b64encode(b'{"user":"test","passwd":"pass","host":"localhost","port":21}'))

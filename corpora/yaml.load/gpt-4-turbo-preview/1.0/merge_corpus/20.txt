@@ -1,0 +1,4 @@
+multi_line_string: |
+  This is a multi-line string
+  With several breaks
+  And it even contains 'single quotes' and "double quotes"

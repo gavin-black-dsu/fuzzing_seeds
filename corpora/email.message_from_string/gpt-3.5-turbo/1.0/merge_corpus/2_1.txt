@@ -1,0 +1,4 @@
+Content-Type: text/plain
+Content-Disposition: attachment; filename=file.txt
+
+This is the content of the attached file.

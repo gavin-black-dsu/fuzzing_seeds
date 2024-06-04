@@ -1,0 +1,3 @@
+%YAML 1.1
+---
+!!python/object/apply:time.sleep [10]

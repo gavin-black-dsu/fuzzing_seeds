@@ -1,0 +1,8 @@
+'---
+name: German
+gender: male
+visited:
+  - Germany
+  - France
+  - Italy
+---'

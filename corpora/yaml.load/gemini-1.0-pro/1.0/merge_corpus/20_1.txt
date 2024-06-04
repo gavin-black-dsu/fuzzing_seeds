@@ -1,0 +1,7 @@
+'---
+name: Victor
+worries:
+  - financial instability
+  - climate change
+  - social unrest
+---'

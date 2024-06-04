@@ -1,0 +1,15 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Test
+Content-Type: multipart/related; boundary="boundary"
+
+--boundary
+Content-Type: text/html
+
+<html><body><p>This is a test email.</p><img src="cid:image1"></body></html>
+--boundary
+Content-Type: image/jpeg
+Content-ID: <image1>
+
+[JPEG IMAGE DATA]
+--boundary--

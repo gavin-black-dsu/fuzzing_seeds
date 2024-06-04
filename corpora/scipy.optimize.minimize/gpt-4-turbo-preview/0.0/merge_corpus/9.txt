@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: np.abs(x)*np.sin(x), x0=-2, method='BFGS')

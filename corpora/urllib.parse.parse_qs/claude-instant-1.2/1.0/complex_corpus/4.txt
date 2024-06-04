@@ -1,0 +1,1 @@
+http://example.com/page?name=ferret&color=purple

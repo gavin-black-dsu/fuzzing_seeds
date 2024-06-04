@@ -1,0 +1,10 @@
+From: John Doe <john.doe@example.com>
+To: Jane Doe <jane.doe@example.com>
+Subject: Meeting Updates
+
+Dear Jane,
+
+Please find the updates for the next meeting.
+
+Best,
+John

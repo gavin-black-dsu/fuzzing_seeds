@@ -1,0 +1,1 @@
+('Unicode Name ÆØÅ', 'unicode@example.com')

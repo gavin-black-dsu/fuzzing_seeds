@@ -1,0 +1,1 @@
+<div style='color:#0000FF'>This is a div with a style attribute.</div>

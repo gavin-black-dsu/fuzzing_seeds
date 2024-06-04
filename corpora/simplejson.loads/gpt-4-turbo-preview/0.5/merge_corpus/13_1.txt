@@ -1,0 +1,1 @@
+{"special_chars": "© < > & \" \\ \b \f \n \r \t"}

@@ -1,0 +1,5 @@
+From: user@example.com
+Subject: Multi-line
+ header value
+
+Body with multi-line header value.

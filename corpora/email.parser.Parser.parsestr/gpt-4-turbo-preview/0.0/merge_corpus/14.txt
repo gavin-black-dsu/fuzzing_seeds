@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test
+
+Body with
+base64 encoding: SGVsbG8sIHdvcmxkIQ==

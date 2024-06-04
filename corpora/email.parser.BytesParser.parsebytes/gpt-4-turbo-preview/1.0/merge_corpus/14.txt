@@ -1,0 +1,5 @@
+From: "John Doe" <user@example.com>
+To: "Jane Doe" <recipient@example.com>
+Subject: Quoted printable
+
+This is a test email where names have been 'quoted-printable' encoded.

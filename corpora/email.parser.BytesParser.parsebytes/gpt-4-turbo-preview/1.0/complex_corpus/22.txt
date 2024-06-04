@@ -1,0 +1,5 @@
+From: <>
+To: Missing From name <user2@example.com>
+Subject: Empty From
+
+The From header is empty.

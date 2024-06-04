@@ -1,0 +1,1 @@
+scipy.optimize.minimize(data=[lambda x: x + 10], x0=[1], method='BFGS')

@@ -1,0 +1,4 @@
+From: user@example.com
+Subject: Test
+
+²»²» Body with binary content.

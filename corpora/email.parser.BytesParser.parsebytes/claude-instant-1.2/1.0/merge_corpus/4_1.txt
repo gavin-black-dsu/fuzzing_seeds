@@ -1,0 +1,16 @@
+From: Sender <sender@example.com>
+To: Recipient <recipient@example.com>
+Subject: Attached file
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=--boundary
+
+--boundary
+Content-Type: text/plain
+
+Hello!
+
+--boundary
+Content-Type: application/pdf; name=file.pdf
+Content-Disposition: attachment; filename=file.pdf
+Content-Transfer-Encoding: base64
+PGhlbGxvIHdvcmxkPlxuc29tZSBwZGYgZGF0YSB3aXRoIGludmFsaWQgYmFzZTY0XG5oZWxsbyB3b3JsZFxuLS1ib3VuZGFyeS0t

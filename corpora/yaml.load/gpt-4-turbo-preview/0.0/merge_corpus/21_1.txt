@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+!!map {
+  ? !!str "key"
+  : !!seq [
+    !!str "value1",
+    !!str "value2",
+  ]
+}

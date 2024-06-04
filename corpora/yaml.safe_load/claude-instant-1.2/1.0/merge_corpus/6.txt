@@ -1,0 +1,1 @@
+!!omap {{!!str A: !!str B}}

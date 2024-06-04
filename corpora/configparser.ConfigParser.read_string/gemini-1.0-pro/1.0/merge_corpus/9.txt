@@ -1,0 +1,6 @@
+[section; comment]
+
+    key2 =  value2
+    [section; comment]
+    key3 = value3
+    

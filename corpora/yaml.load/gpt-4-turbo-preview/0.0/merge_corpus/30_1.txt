@@ -1,0 +1,5 @@
+---
+- !!python/object/new:module.submodule.ClassName
+  state: {attr: value}
+  listitems: [item1, item2]
+  dictitems: {key: value}

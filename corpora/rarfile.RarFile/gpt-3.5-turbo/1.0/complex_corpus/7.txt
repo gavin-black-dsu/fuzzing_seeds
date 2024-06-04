@@ -1,0 +1,1 @@
+rarfile.RarFile(io.BytesIO(data), mode='r', pwd=b'mypassword', strict=False)

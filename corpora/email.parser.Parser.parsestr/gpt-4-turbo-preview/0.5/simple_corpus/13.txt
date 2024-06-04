@@ -1,0 +1,15 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test with attachment
+Content-Type: multipart/mixed; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+This is the body.
+--boundary
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="test.txt"
+
+This is an attachment.
+--boundary--

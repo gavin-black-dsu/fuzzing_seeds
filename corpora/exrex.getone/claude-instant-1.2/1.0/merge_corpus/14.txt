@@ -1,0 +1,1 @@
+^The [a-zA-Z]+ (was|is) [a-z]+$

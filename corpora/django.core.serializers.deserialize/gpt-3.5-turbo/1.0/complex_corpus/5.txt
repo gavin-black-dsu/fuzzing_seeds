@@ -1,0 +1,1 @@
+{"model": "blog.Comment", "pk": 1, "fields": {"post_id": 1, "author": "user456", "content": "Great article!"}}

@@ -1,0 +1,2 @@
+!!python/object/new:type
+args: ['Example', (object,), {'attr': 'value'}]

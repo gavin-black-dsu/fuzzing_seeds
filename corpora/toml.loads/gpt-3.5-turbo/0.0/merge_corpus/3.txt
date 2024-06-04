@@ -1,0 +1,1 @@
+data = "[table] key = 'string'"

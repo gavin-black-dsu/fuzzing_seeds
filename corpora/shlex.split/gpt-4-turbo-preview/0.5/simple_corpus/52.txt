@@ -1,0 +1,1 @@
+mixed separators, and;semicolons|and|pipes

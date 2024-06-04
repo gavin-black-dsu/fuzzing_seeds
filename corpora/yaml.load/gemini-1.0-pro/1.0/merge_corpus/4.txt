@@ -1,0 +1,9 @@
+foo: !unsafe sequence
+  - !!python/object/new:decimal.Decimal
+    args: ["1.0"]
+    state: !!python/tuple [1, (), 2235464264]
+  - !!python/object/new:decimal.Decimal
+    args: ["2.0"]
+    state: !!python/tuple [1, (), 2235464264]
+baz: 42
+-

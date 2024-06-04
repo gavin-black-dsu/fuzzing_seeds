@@ -1,0 +1,4 @@
+[section 1]
+key=value
+[section 2]
+key=same key

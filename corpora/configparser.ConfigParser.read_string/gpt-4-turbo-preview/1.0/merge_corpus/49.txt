@@ -1,0 +1,4 @@
+[section]
+
+;comment
+key=value

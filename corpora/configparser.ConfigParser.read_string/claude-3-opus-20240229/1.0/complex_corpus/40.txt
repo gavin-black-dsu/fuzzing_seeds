@@ -1,0 +1,4 @@
+[DEFAULT]
+key=value
+[section]
+key=new_value

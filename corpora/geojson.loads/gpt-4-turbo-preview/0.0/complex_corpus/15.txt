@@ -1,0 +1,1 @@
+{"type": "Feature", "geometry": "Not a geometry object", "properties": {}}

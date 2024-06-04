@@ -1,0 +1,7 @@
+---
+- step: !!omap
+  - id: test1
+  - name: Test sequence 1
+- step: !!omap
+  - id: test2
+  - name: Test sequence 2

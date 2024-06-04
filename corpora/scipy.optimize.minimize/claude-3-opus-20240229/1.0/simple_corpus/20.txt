@@ -1,0 +1,1 @@
+scipy.optimize.minimize(open('/dev/zero', 'rb').read(1024), [0, 0], method='BFGS')

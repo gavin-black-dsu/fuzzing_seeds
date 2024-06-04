@@ -1,0 +1,6 @@
+[section]
+key=value
+
+
+[anothersection]
+key=value

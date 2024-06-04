@@ -1,0 +1,1 @@
+key = { nestedKey = "nestedValue", anotherKey = 123 }

@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Encoded word =?UTF-8?Q?encoded_text?= in subject
+
+Body with encoded word in the subject.

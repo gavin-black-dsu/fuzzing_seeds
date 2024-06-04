@@ -1,0 +1,7 @@
+'---
+name: Una
+hobbies:
+  - swimming
+  - painting
+  - cooking
+---'

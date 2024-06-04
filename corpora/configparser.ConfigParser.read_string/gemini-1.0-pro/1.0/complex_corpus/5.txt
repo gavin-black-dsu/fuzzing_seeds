@@ -1,0 +1,5 @@
+[group]
+key=a
+key2=b
+key3=c
+key4=d

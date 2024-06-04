@@ -1,0 +1,3 @@
+#Another comment alone
+[section]
+key=value

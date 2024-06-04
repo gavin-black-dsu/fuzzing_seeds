@@ -1,0 +1,1 @@
+requests.get('''http://example.com/fuzz2?fuzz=<script>alert(1)</script>''', params={'key': 'value'})

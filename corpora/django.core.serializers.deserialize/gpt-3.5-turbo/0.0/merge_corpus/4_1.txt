@@ -1,0 +1,1 @@
+{'model': 'app.order', 'pk': 1, 'fields': {'customer': 'John Doe', 'items': ['Product A', 'Product B'], 'total': 39.98}}

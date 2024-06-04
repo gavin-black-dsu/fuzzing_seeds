@@ -1,0 +1,1 @@
+('EmailWith;Semicolon', 'semicolon;email@example.com')

@@ -1,0 +1,2 @@
+key:newline=value
+other=value2

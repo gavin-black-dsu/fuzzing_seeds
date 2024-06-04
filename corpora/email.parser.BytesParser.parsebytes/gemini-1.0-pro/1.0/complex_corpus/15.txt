@@ -1,0 +1,9 @@
+From: foo@example.org
+To: bar
+Subject: Foo
+
+Hello
+--
+foo
+bar
+baz

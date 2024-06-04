@@ -1,0 +1,1 @@
+tablib.import_set('\'data\',\'data\',\'data\'', format='csv')

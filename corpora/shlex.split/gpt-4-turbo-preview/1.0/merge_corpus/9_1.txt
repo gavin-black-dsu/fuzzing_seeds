@@ -1,0 +1,1 @@
+text with 'single' and "double" quotes

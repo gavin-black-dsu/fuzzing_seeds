@@ -1,0 +1,4 @@
+document_start_end:
+---
+key: value
+...

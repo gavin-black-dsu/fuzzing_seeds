@@ -1,0 +1,9 @@
+--boundary
+Content-Disposition: form-data; name="field"
+
+value
+--boundary
+Content-Disposition: form-data; name="array"
+
+["value1", "value2"]
+--boundary--

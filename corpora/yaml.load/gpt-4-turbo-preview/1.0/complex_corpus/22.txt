@@ -1,0 +1,1 @@
+safe: !safeType { name: John, age: 30 }

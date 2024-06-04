@@ -1,0 +1,1 @@
+{"model": "auth.user", "pk": 1, "fields": {"username": "admin", "password": "pbkdf2_sha256$100000$fg0BdIOQMO3o$m7Bu87/apeTPZDRwlDC80GkNLw2pFApA4R0iutTVwAI="}}

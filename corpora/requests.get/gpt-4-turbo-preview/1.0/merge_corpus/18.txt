@@ -1,0 +1,1 @@
+http://example.com?arr[]=1&arr[]=2

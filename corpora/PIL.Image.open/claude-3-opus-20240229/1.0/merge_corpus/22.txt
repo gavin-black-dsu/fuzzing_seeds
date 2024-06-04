@@ -1,0 +1,1 @@
+'.join([chr(i) for i in range(256)]) * 100

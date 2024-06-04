@@ -1,0 +1,7 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test email
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body><h1>This is a heading</h1><p>This is a paragraph.</p></body></html>

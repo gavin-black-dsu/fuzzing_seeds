@@ -1,0 +1,1 @@
+{invalid: ! 'omap' ['a', 2]}

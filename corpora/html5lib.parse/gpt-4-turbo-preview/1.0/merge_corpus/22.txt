@@ -1,0 +1,1 @@
+<!doctype html><html><head><title>CDATA Fuzz</title></head><body><![CDATA[<script>]]>alert('fuzz')<![CDATA[</script>]]></body></html>

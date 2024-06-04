@@ -1,0 +1,1 @@
+{tf1nsinsicpg1252\cocoartf1671\cocoasubrtf600{onttbl0nilcharset0 Helvetica;}\{\*\expandedcolortbl;;\}\paperw11900\paperh16840\margl1440\margr1440ieww10800iewh8400iewkind0\pard	x720	x1440	x2160	x2880	x3600	x4320	x5040	x5760	x6480	x7200	x7920	x8640\pardirnatural\partightenfactor00s24 \cf0 Hello, World!}

@@ -1,0 +1,11 @@
+[[arrayOfTables]]
+key = 'value1'
+
+[[arrayOfTables]]
+key = 'value2'
+
+[[arrayOfTables]]
+key = 'value3'
+
+[[arrayOfTables.nested]]
+key = 'nestedValue'

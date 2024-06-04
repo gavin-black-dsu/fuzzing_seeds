@@ -1,0 +1,1 @@
+a string with a mix of unicode characters and \u1234 escapes

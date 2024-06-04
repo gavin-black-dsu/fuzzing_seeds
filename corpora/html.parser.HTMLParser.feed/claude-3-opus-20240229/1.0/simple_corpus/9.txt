@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>Fuzz Test</title><script>console.log('Inline script');</script></head><body><h1>Inline Script</h1></body></html>

@@ -1,0 +1,1 @@
+<math><mi>x</mi> <mo>+</mo> <mi>y</mi> <mo>=</mo> <mi>20</mi></math>

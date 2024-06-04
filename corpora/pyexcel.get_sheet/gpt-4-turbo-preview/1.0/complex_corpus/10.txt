@@ -1,0 +1,4 @@
+name,age,city
+John,28.5,New York
+Sarah,Not a number,Los Angeles
+Mike,25,Chicago

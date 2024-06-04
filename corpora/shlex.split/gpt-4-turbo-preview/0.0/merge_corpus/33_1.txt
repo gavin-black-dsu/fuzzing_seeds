@@ -1,0 +1,1 @@
+a string with escaped "quotes\" and other \characters

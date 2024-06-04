@@ -1,0 +1,2 @@
+from typing import List, Dict
+Var: List[Dict[str, int]] = [{'key': 1}]

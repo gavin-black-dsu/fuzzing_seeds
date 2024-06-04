@@ -1,0 +1,7 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Repeated headers
+From: another@example.com
+To: anotherrecipient@example.com
+
+Body with repeated headers.

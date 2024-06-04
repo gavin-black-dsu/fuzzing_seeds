@@ -1,0 +1,29 @@
+[table]
+key = [1, 2, 3]
+
+[table]
+key = ['one', 'two', 'three']
+
+[table]
+key = 0x2A
+
+[table]
+key = 0o755
+
+[table]
+key = 0b101010
+
+[table]
+key = 2023-12-31T23:59:59Z
+
+[table]
+key = 2023-12-31
+
+[table]
+key = 23:59:59
+
+[table]
+key = inf
+
+[table]
+key = nan

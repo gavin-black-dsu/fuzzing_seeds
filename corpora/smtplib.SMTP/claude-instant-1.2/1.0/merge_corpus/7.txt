@@ -1,0 +1,1 @@
+smtplib.SMTP({'host':'localhost','port':25,'timeout':30,'source_address': ('10.10.10.10',1025)})

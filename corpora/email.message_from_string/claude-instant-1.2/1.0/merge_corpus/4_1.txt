@@ -1,0 +1,9 @@
+data = 'Date: Thu, 1 Jan 1970 00:00:00 +0000
+From: test <test@test.com>
+Subject: test
+To: Test <test2@test.com>
+Message-ID: <1234@local.machine.example>
+Content-Type: text/plain; charset=us-ascii
+
+This is a message with multiple headers in a different order than usual
+'

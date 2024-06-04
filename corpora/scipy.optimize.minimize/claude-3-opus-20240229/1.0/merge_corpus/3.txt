@@ -1,0 +1,1 @@
+scipy.optimize.minimize(b'A' * 1000000, [0, 0], method='BFGS')

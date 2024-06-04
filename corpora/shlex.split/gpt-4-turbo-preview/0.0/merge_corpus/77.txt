@@ -1,0 +1,1 @@
+text with mixed types "quotes" 'quotes' /slashes \backslashes --options

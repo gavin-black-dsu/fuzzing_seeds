@@ -1,0 +1,3 @@
+username;age;email
+"john.doe";28;"john.doe@example.com"
+"jane.doe";31;"jane.doe@example.com"

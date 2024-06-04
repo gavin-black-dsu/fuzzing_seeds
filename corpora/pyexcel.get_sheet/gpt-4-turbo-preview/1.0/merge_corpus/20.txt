@@ -1,0 +1,4 @@
+name,age,city
+"John, \"The Legend\"",28,"New York"
+"Sarah, \"The Architect\"",32,"Los Angeles"
+"Mike, \"The Chef\"",25,"Chicago"

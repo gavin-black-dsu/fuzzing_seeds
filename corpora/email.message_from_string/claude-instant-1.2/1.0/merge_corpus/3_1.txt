@@ -1,0 +1,8 @@
+data = 'From: <test@test.com>
+To: Test <test2@test.com>
+Subject: Hello
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hello World!'

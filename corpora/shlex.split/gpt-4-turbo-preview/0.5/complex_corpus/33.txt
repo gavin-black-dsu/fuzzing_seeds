@@ -1,0 +1,2 @@
+"double quotes with newline
+inside"

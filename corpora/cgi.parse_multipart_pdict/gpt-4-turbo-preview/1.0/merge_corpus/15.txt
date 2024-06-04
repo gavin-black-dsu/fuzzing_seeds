@@ -1,0 +1,6 @@
+--boundary
+Content-Disposition: form-data; name="name"; filename="\"malicious\".txt"
+Content-Type: application/octect-stream
+
+Malicious content?
+--boundary--

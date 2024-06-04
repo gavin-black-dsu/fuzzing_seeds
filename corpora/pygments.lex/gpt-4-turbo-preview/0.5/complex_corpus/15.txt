@@ -1,0 +1,1 @@
+sorted(['apple', 'banana', 'cherry'], key=lambda k: k[-1])

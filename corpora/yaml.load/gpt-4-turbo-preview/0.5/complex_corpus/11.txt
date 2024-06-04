@@ -1,0 +1,2 @@
+!!python/object/apply:time.sleep
+args: [10]

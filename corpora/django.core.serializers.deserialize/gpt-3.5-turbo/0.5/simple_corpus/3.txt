@@ -1,0 +1,1 @@
+{'model': 'auth.user', 'pk': 2, 'fields': {'username': 'user1', 'password': 'userpass'}}

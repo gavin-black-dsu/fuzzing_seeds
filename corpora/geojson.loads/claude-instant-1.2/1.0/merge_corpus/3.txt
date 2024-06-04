@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"LineString","coordinates":[[30,10],[10,30],[40,40]]},"properties":{"name":"line"}},{"type":"Feature","geometry":null,"properties":{"name":"null geom"}}]}

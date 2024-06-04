@@ -1,0 +1,3 @@
+!!omap
+- id: !!int '123'
+- name: John Doe

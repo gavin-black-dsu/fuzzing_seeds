@@ -1,0 +1,5 @@
+From: =?utf-8?Q?"D=C3=B6rte"_B=C3=A4cker?= <doerte@example.com>
+To: recipient@example.com
+Subject: Encoded names
+
+The email addresses can have special characters, encoded in various ways.

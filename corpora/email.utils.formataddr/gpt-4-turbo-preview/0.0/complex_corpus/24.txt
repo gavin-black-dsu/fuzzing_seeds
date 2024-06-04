@@ -1,0 +1,1 @@
+('Name With Emoji 😊', 'emoji@example.com')

@@ -1,0 +1,1 @@
+<div style='background-color:lime; padding:10px;'>This is a div element with a background color.</div>

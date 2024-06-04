@@ -1,0 +1,7 @@
+'---
+name: Irene
+age: 30
+habits:
+  - playing guitar
+  - reading books
+---'

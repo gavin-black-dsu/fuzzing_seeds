@@ -1,0 +1,1 @@
+folder/**/sub[0-9]folder/*.txt

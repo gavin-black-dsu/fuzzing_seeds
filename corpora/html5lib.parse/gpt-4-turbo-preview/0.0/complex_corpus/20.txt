@@ -1,0 +1,1 @@
+<html><body><embed src='fuzz' type='application/x-shockwave-flash'></embed></body></html>

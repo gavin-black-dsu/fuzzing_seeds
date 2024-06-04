@@ -1,0 +1,1 @@
+<html><body><div style="color: red; font-size: 24px;">Styled text</div></body></html>

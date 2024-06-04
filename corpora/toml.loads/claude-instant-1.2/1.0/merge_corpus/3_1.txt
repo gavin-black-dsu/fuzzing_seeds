@@ -1,0 +1,12 @@
+
+[default]
+username = "johndoe" 
+database = 'mydatabase'
+
+[development]
+username = "app"
+database = 'development_database'
+
+[testing]  
+username = "test"
+database = 'test_database'

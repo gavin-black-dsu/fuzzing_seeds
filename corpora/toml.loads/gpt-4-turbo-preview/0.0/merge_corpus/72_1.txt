@@ -1,0 +1,32 @@
+[[arrayOfTables]]
+key = 'value1'
+
+[[arrayOfTables]]
+key = 'value2'
+
+[[arrayOfTables]]
+key = 'value3'
+
+[[arrayOfTables]]
+key = 0x2A
+
+[[arrayOfTables]]
+key = 0o755
+
+[[arrayOfTables]]
+key = 0b101010
+
+[[arrayOfTables]]
+key = 2023-12-31T23:59:59Z
+
+[[arrayOfTables]]
+key = 2023-12-31
+
+[[arrayOfTables]]
+key = 23:59:59
+
+[[arrayOfTables]]
+key = inf
+
+[[arrayOfTables]]
+key = nan

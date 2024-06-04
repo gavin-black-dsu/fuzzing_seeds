@@ -1,0 +1,15 @@
+From: "John Doe" <johndoe@example.com>
+To: "Jane Doe" <janedoe@example.com>
+Subject: Test Email
+Content-Type: multipart/mixed; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+This is a test email.
+--boundary
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="test.txt"
+
+This is a test attachment.
+--boundary--

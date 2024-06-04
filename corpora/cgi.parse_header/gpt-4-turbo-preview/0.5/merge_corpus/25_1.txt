@@ -1,0 +1,1 @@
+message/partial; id="(foo)@example.com"; number=2; total=3

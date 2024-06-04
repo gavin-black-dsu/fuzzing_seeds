@@ -1,0 +1,1 @@
+<label for='id'>Label for input</label><input id='id' type='text'>

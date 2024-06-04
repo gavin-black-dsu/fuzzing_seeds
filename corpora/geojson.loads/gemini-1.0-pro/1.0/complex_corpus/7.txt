@@ -1,0 +1,17 @@
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [-122.4194, 37.7749],
+        [-122.4299, 37.7821]
+      ]
+    },
+    "properties": {
+      "name": "Golden Gate Bridge",
+      "start_date": "2017-01-01",
+      "end_date": "2017-12-31"
+    }
+  }
+  

@@ -1,0 +1,9 @@
+
+GLOBAL_CONSTANT = 42
+
+def scope_test():
+    local_variable = 'I am local'
+    return local_variable
+
+print(GLOBAL_CONSTANT, scope_test())
+    

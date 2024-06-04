@@ -1,0 +1,6 @@
+--boundary
+Content-Disposition: form-data; name="jsondata"
+Content-Type: application/json
+
+{"key": "value", "array": [1, 2, 3]}
+--boundary--

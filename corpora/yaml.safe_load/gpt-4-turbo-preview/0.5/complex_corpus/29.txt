@@ -1,0 +1,4 @@
+a: |-
+  This is a literal
+  scalar.
+  With multiple lines.

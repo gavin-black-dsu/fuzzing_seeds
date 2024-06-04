@@ -1,0 +1,7 @@
+'---
+name: Peter
+location:
+  address: 123 Main Street
+  city: New York
+  zip code: 10001
+---'

@@ -1,0 +1,1 @@
+a: !!perl/hash:Foo { bar: baz }

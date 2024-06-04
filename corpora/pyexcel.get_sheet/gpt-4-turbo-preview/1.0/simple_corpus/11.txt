@@ -1,0 +1,3 @@
+"""quoted""","regular","12345"
+"new
+line","test","data"

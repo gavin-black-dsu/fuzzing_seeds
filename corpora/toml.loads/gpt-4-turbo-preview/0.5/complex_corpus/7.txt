@@ -1,0 +1,4 @@
+[[products]]
+name = "Hammer"
+[[products]]
+name = "Nail"

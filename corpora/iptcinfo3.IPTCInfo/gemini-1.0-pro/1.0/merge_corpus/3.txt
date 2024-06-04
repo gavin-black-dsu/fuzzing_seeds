@@ -1,0 +1,1 @@
+data/valid_iptc_segment_data.jpg

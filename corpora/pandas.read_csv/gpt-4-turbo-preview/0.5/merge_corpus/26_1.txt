@@ -1,0 +1,1 @@
+long text in a single cell,This is a very long text that might be considered as a single cell in a CSV file and it contains commas, full stops, and other punctuation marks. It's a good example of text data that could be parsed incorrectly if not handled properly.,Another cell

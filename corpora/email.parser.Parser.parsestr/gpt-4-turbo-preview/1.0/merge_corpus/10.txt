@@ -1,0 +1,6 @@
+Date: Wed, 2 Oct 2002 13:00:00 GMT
+Subject: Test
+To: user@example.com
+From: someone@example.com
+
+Message Body

@@ -1,0 +1,2 @@
+smtp.example.com
+example.com

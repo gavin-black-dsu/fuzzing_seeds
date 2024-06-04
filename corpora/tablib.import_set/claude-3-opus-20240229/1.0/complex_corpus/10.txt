@@ -1,0 +1,1 @@
+tablib.import_set('"quoted,data",here', format='csv')

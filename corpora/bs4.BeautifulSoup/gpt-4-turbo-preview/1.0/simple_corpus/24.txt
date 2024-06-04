@@ -1,0 +1,1 @@
+<marquee behavior='slide' direction='left'>Scrolling text</marquee>

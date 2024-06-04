@@ -1,0 +1,1 @@
+<html><head><title>UTF-7</title></head><body>+ADw-script+AD4-alert('fuzz')+ADw-/script+AD4-</body></html>

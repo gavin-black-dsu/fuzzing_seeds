@@ -1,0 +1,6 @@
+colors = {
+"ruby" = "red",
+"raphael" = "blue",
+"donatello" = "purple",
+"michelangelo" = "orange"
+}

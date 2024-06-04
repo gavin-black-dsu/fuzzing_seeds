@@ -1,0 +1,1 @@
+<html><head><title>Fuzz</title><style>body{color:#f00;}</style></head><body>Fuzz</body></html>

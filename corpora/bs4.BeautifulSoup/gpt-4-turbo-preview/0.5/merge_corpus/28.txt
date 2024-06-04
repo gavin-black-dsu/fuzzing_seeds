@@ -1,0 +1,1 @@
+<html><body><script type='text/javascript'>console.log('Log');</script></body></html>

@@ -1,0 +1,2 @@
+[Sec:tion]
+key=value

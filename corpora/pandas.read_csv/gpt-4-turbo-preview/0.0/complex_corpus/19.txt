@@ -1,0 +1,3 @@
+boolean_field1,boolean_field2
+True,False
+true,false

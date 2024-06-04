@@ -1,0 +1,1 @@
+q=search+query&q=another+search+query

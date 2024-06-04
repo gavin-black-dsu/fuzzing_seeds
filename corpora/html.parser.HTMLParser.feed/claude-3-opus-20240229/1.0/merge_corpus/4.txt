@@ -1,0 +1,1 @@
+<html><body><img src='nonexistent.jpg' onerror='alert("Image not found")'></body></html>

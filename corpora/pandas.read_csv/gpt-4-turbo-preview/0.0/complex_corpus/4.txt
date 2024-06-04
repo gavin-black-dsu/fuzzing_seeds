@@ -1,0 +1,3 @@
+product,price,quantity
+"Laptop, 15"", 8GB RAM",800,10
+"Smartphone, 5"" Screen",500,15

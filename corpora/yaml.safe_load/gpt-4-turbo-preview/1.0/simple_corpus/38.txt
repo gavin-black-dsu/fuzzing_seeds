@@ -1,0 +1,1 @@
+key: !!perl/regex '/[a-zA-Z]/'

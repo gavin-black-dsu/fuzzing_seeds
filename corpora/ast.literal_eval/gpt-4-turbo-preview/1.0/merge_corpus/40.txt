@@ -1,0 +1,1 @@
+[None, True, False, 'text', 123, 45.67]

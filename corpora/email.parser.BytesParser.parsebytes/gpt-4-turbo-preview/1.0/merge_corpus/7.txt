@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: CRLF line endings
+
+This email uses CRLF line endings.

@@ -1,0 +1,1 @@
+<html><head><style>@import 'fuzz';</style></head><body>Import Style</body></html>

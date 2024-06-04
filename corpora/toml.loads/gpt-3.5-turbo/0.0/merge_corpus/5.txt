@@ -1,0 +1,1 @@
+data = "[table] key = {a = 1, b = 2}"

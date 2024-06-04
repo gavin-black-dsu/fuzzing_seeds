@@ -1,0 +1,1 @@
+a: !!python/object/apply:open ['file_to_open.txt']

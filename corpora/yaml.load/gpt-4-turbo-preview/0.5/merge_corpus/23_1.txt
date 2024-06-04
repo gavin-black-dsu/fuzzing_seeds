@@ -1,0 +1,5 @@
+complex_key:
+  ? |
+    This is a
+    complex key
+  : and its value

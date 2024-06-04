@@ -1,0 +1,14 @@
+Subject: Test message 7
+
+MIME-Version: 1.0Content-Type: multipart/alternative; boundary="---------------1210908668026"
+
+This is a multipart alternative message.
+-- ---------------1210908668026
+Content-Type: text/plain; charset=US-ASCII
+
+This is the first part of the multipart alternative message.
+-- ---------------1210908668026
+Content-Type: text/html; charset=US-ASCII
+
+<h1>This is the second part of the multipart alternative message.</h1>
+-- ---------------1210908668026--

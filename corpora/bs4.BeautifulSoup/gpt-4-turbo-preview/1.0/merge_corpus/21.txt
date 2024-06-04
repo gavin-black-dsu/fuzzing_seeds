@@ -1,0 +1,1 @@
+<embed src='hxxp://example.com/hack.swf' allowscriptaccess='always'></embed>

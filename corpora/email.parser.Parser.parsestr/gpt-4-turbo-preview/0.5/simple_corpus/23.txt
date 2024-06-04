@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test
+Content-Transfer-Encoding: 7bit
+
+This email specifies a content transfer encoding.

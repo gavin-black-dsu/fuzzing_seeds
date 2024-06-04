@@ -1,0 +1,1 @@
+xlrd.open_workbook(file_contents=b'important_data_here')

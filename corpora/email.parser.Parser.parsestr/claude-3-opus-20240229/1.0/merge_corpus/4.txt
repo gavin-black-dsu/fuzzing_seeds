@@ -1,0 +1,14 @@
+From: "John Doe" <johndoe@example.com>
+To: "Jane Doe" <janedoe@example.com>
+Subject: Test Email
+Content-Type: multipart/alternative; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+This is a test email.
+--boundary
+Content-Type: text/html
+
+<html><body><h1>This is a test email.</h1></body></html>
+--boundary--

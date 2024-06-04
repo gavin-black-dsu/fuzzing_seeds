@@ -1,0 +1,5 @@
+From: info@example.com
+To: user@example.com
+Subject: =?utf-8?B?5L2g5aW95Zub?= A header encoded in Base64
+
+Email with base64 encoded subject to test decoding capabilities.

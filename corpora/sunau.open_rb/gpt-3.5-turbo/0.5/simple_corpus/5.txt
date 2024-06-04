@@ -1,0 +1,1 @@
+sunau.open(io.BytesIO(data), 'wb')

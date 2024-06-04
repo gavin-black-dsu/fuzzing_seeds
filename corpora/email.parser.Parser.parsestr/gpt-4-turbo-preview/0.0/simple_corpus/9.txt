@@ -1,0 +1,10 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test
+
+Body with
+embedded
+
+..newlines
+
+and more text

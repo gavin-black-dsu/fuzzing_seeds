@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test
+Content-Transfer-Encoding: quoted-printable
+
+This email specifies a content transfer encoding.

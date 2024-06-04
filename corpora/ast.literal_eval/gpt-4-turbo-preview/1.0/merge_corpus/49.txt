@@ -1,0 +1,1 @@
+{'weird_key': lambda x: x}

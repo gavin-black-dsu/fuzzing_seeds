@@ -1,0 +1,7 @@
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII
+From: ascii@example.com
+To: ascii-friend@example.com
+Subject: ASCII Content
+
+This email strictly contains ASCII content.

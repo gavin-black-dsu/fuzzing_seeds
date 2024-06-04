@@ -1,0 +1,1 @@
+('    Leading and Trailing Spaces    ', '    space@example.com    ')

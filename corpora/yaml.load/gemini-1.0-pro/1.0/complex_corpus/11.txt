@@ -1,0 +1,7 @@
+'---
+name: Mark
+preferences:
+  color: green
+  music: rock
+  movie: action
+---'

@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Sample HTML Document</title>
+</head>
+<body>
+<p>Sample data with paragraph tag inside body</p> 
+</body>
+</html>

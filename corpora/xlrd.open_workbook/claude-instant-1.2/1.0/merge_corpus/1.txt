@@ -1,0 +1,1 @@
+xlrd.open_workbook(file_contents="randomstring")

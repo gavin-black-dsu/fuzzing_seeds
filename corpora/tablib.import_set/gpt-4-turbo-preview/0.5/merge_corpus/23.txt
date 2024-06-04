@@ -1,0 +1,2 @@
+injection,attempt
+=HYPERLINK("http://example.com"),"clickme"

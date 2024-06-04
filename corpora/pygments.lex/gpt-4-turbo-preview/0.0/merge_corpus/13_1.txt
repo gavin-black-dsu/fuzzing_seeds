@@ -1,0 +1,1 @@
+set_comprehension = {x for x in 'hello world' if x not in 'aeiou'}

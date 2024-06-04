@@ -1,0 +1,9 @@
+
+    import math
+    
+    def calculate_circ_area(radius):
+      pi = math.pi
+      return pi * radius ** 2
+      
+    print(calculate_circ_area(5))
+    

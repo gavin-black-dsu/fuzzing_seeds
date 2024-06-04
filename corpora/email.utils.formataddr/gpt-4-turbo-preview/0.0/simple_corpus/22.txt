@@ -1,0 +1,1 @@
+('EmailWith%Percent', 'percent%email@example.com')

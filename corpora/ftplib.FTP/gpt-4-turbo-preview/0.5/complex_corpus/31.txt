@@ -1,0 +1,1 @@
+ftp://user:password@host:21/path with spaces

@@ -1,0 +1,2 @@
+Cookie: SESSID=12345; foo=bar
+Content-Type: text/html

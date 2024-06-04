@@ -1,0 +1,1 @@
+tablib.import_set('\xef\xbb\xbfUTF-8 BOM,data', format='csv')

@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>CSS Injection</title><style>body{visibility:hidden;}</style></head><body><p>Hidden text.</p></body></html>

@@ -1,0 +1,6 @@
+------WebKitFormBoundaryW6M8OSP2HDwVqoYb
+Content-Disposition: form-data; name="file"; filename=""
+Content-Type: application/octet-stream
+
+<html><body><p>Fuzzed HTML data</p></body></html>
+------WebKitFormBoundaryW6M8OSP2HDwVqoYb--

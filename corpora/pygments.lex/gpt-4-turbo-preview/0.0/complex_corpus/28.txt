@@ -1,0 +1,5 @@
+import os
+if os.fork() == 0:
+    print('Hello from child process')
+else:
+    print('Hello from parent process')

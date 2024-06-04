@@ -1,0 +1,2 @@
+\
+key = "starts with backslash"

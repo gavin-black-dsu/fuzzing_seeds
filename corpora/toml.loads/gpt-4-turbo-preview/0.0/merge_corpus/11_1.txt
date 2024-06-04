@@ -1,0 +1,5 @@
+[[arrayOfTables]]
+key = 'value1'
+
+[[arrayOfTables]]
+key = 'value2'

@@ -1,0 +1,12 @@
+
+-----------------------------765127256861
+Content-Disposition: form-data; name="foo"
+
+bar
+-----------------------------765127256861
+Content-Disposition: form-data; name="bar"; filename="baz.txt"
+Content-Type: text/plain
+Content-Transfer-Encoding: binary
+
+quux
+-----------------------------765127256861--

@@ -1,0 +1,1 @@
+{data: [{"dict": True}, None, 0, "string", {}, [], b"bytes", {"another": "dict"}]}

@@ -1,0 +1,1 @@
+<html><head><script>bad()</script></head><body>Nothing here</body></html>

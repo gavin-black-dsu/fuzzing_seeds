@@ -1,0 +1,11 @@
+<html>
+    <head>
+    <title>Hello</title>
+    </head>
+    <body>
+    <p>A</p>
+    <script>
+    alert('XSS');
+    </script>
+    </body>
+    </html>

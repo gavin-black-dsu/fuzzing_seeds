@@ -1,0 +1,6 @@
+a: |-
+  Keep this line
+  
+  And this line
+  
+    But not this one

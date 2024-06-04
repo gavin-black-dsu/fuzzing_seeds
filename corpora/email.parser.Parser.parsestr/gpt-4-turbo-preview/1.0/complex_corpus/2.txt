@@ -1,0 +1,5 @@
+From: foo@bar.com
+To: someone@example.com
+Subject: Test
+
+This is a simple test message.

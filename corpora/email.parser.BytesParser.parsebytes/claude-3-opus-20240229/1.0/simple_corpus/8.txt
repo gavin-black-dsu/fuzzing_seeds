@@ -1,0 +1,7 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Test email
+MIME-Version: 1.0
+Content-Type: text/plain
+
+This is a test email.

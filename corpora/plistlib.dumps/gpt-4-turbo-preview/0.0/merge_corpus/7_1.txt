@@ -1,0 +1,1 @@
+{'boolean': True, 'integer': 1, 'float': 1.1, 'string': 'text', 'list': [1, 2, 3], 'dict': {'key': 'value'}}

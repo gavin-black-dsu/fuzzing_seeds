@@ -1,0 +1,2 @@
+('Name With New
+Line', 'newline@example.com')

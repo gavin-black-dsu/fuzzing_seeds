@@ -1,0 +1,1 @@
+ics.Calendar(data='data/event_simple.ics')

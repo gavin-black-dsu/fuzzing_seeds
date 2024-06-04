@@ -1,0 +1,5 @@
+From: <user@example.com>(User Example)
+To: <recipient@example.com>(Recipient Example)
+Subject: Test Email with display names
+
+Body with display names in angle brackets.

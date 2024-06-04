@@ -1,0 +1,1 @@
+<script>while(1){}</script><p>This page will hang the parser or maybe crash it.</p>

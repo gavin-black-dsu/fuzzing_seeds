@@ -1,0 +1,1 @@
+('Name With = Equal', 'equal@example.com')

@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: -np.sqrt(x), x0=10, method='BFGS')

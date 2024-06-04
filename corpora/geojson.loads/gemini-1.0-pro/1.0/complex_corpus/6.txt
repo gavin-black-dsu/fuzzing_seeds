@@ -1,0 +1,16 @@
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.4194,
+        37.7749
+      ]
+    },
+    "properties": {
+      "name": "Golden Gate Bridge",
+      "elevation": 235
+    }
+  }
+  

@@ -1,0 +1,1 @@
+pyexcel.get_sheet(file_type='csv', file_content='~!@#$%^&*()_+')

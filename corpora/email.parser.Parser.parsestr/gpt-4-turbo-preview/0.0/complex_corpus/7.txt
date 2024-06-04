@@ -1,0 +1,12 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Attachments
+
+Body before attachment
+
+------=_Part_0_123456789.0987654321
+Content-Type: application/octet-stream; name="example.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="example.txt"
+
+VGhpcyBpcyBhbiBleGFtcGxlIGF0dGFjaG1lbnQu

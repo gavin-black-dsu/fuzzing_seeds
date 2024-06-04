@@ -1,0 +1,1 @@
+https://example.com?query=param&query=param2

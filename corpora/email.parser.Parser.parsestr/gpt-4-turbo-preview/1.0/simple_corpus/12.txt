@@ -1,0 +1,5 @@
+From: <user@example.com>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Text in UTF-8

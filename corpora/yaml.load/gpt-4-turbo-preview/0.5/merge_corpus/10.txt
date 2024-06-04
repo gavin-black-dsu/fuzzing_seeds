@@ -1,0 +1,6 @@
+%TAG ! tag:clarkevans.com,2002:
+---
+!!map {
+? !str 'key'
+: !int '3'
+}

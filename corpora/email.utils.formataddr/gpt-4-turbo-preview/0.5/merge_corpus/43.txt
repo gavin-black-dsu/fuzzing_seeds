@@ -1,0 +1,1 @@
+('Name With ; Semicolon', 'semicolon@example.com')

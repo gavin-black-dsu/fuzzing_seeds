@@ -1,0 +1,4 @@
+X-Some-Header: test
+X-Some-Other-Header: another test
+
+Body with two headers

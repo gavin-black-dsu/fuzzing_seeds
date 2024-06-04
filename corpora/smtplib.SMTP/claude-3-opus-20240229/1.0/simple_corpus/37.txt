@@ -1,0 +1,1 @@
+\tsmtp.example.com:25

@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: File Path Traversal
+
+Body with file path traversal ../etc/passwd

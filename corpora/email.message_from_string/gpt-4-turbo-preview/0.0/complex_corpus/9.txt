@@ -1,0 +1,16 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Inline image
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="boundary"
+
+--boundary
+Content-Type: text/html
+
+<html><body><img src="cid:image1"></body></html>
+--boundary
+Content-Type: image/jpeg
+Content-ID: <image1>
+
+JPEG data
+--boundary--

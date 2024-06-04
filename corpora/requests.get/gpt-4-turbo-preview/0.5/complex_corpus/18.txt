@@ -1,0 +1,1 @@
+http://example.com/path/to/resource?query=string%3Cscript%3Ealert('XSS')%3C/script%3E

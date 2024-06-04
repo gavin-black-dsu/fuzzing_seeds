@@ -1,0 +1,1 @@
+<html><body><div style='width: expression(alert(1));'>test</div></body></html>

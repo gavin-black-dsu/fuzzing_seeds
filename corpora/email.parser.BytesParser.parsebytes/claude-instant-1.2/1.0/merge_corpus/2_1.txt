@@ -1,0 +1,7 @@
+From: Sender <sender@example.com>
+To: Recipient <recipient@example.com>
+Date: Tue, 1 Jan 2020 00:00:00 +0000
+Message-ID: <1234@example.com>
+Subject: Hello
+
+Hello!

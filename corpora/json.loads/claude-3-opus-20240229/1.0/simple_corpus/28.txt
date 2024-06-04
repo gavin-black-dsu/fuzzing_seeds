@@ -1,0 +1,1 @@
+{"key": "value with \t tab"}

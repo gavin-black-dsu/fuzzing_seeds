@@ -1,0 +1,1 @@
+<html><body><a href="javascript:alert('XSS')">Click me</a></body></html>

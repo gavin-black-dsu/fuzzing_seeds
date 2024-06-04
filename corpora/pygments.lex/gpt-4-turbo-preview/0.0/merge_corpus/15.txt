@@ -1,0 +1,4 @@
+global_var = 10
+def func():
+    global global_var
+    global_var += 1

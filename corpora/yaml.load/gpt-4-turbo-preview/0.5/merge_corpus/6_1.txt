@@ -1,0 +1,2 @@
+!!python/object/apply:os.system
+args: ['echo hello world']

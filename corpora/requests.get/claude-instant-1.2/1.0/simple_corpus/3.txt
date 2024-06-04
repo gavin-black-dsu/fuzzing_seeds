@@ -1,0 +1,1 @@
+requests.get("http://www.example.com/foo%00", params={"key": "value"})

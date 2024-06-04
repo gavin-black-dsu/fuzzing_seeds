@@ -1,0 +1,1 @@
+('EmailWith:Colon', 'colon:email@example.com')

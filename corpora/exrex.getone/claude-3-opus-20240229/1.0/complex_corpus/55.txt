@@ -1,0 +1,1 @@
+{data.translate(str.maketrans("abc", "def"))}

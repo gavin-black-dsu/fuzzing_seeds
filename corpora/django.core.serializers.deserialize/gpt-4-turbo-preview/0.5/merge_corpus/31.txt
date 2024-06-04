@@ -1,0 +1,1 @@
+[{"model": "app.model", "pk": 1, "fields": {"nested_objects": [{"key": "value"}, {"key2": "value2"}]}}]

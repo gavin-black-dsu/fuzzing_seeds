@@ -1,0 +1,2 @@
+[[array]
+key = "in an array without a table name"

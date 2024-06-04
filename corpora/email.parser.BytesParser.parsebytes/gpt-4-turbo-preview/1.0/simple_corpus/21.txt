@@ -1,0 +1,15 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Binary Attachment
+Content-Type: multipart/mixed; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+See attached
+--boundary
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+
+SGVsbG8sIHdvcmxkIQ==
+--boundary--

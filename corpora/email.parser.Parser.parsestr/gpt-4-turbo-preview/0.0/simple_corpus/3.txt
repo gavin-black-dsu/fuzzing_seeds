@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: =?utf-8?B?U3ViamVjdCB3aXRoIMOmw6fDqMOo?= 
+
+Encoded subject

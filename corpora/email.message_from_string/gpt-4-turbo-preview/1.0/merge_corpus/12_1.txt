@@ -1,0 +1,9 @@
+MIME-Version: 1.0
+From: admin@example.com
+To: user@example.com
+Content-Type: text/html;
+	charset="UTF-8"
+Subject: Alert
+
+<h1>System Alert</h1>
+<p>Your system is at risk.</p>

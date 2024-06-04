@@ -1,0 +1,1 @@
+{'mixed': ['text', 10, 15.5, True, None, {'key': 'value'}]}

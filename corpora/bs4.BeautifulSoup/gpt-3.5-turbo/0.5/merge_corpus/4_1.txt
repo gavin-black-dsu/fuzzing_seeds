@@ -1,0 +1,1 @@
+<html><body><div><p>Testing the BeautifulSoup function</p></div></body></html>

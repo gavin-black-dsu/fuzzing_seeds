@@ -1,0 +1,5 @@
+stuff before calendar
+BEGIN:VCALENDAR
+valid calendar content
+END:VCALENDAR
+stuff after calendar

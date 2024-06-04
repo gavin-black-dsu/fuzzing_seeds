@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Incomplete headers
+From
+
+Body starts after incomplete header.

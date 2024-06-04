@@ -1,0 +1,1 @@
+{"model": "blog.Post", "pk": 1, "fields": {"title": "Hello World", "content": "This is a test post"}}

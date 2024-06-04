@@ -1,0 +1,1 @@
+ftp.example.com'; DROP TABLE users;

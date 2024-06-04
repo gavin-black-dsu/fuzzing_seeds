@@ -1,0 +1,1 @@
+user:密碼@ftp.例子.com

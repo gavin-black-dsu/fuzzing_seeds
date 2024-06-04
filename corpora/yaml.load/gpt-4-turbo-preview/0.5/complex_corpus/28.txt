@@ -1,0 +1,1 @@
+python_literal: !!python/name:__builtins__.print

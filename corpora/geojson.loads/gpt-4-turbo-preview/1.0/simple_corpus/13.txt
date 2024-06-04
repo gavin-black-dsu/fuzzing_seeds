@@ -1,0 +1,1 @@
+{"type": "Point", "lat": 100.0, "long": 0.0}

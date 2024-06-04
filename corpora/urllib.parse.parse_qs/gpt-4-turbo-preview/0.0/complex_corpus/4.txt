@@ -1,0 +1,1 @@
+product=widget&price=25&quantity=2&description=A+fine+collection+of+widgets.

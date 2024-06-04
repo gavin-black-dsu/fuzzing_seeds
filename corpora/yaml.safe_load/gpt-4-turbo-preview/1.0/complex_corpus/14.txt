@@ -1,0 +1,4 @@
+items:
+  ? - key1
+    - key2
+  : value

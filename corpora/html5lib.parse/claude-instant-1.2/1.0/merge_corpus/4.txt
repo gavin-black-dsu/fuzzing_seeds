@@ -1,0 +1,1 @@
+<blink>Invalid tag</blink><b>Text</b>

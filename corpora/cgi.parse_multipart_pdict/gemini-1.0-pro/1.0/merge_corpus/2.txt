@@ -1,0 +1,9 @@
+--boundary
+Content-Disposition: form-data; name="field1"
+
+field1 value
+--boundary
+Content-Disposition: form-data; name="field2"
+
+field2 value
+--boundary--

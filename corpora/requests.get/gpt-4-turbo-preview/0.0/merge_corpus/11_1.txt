@@ -1,0 +1,1 @@
+http://example.com?name=John&age=30

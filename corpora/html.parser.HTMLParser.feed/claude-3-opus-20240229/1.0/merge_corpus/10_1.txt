@@ -1,0 +1,1 @@
+<html><body><p>This is a paragraph with <a href='https://www.example.com'>a link</a> and an <img src='https://www.example.com/image.jpg' alt='example image'>.</p></body></html>

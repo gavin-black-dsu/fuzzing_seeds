@@ -1,0 +1,21 @@
+From: John Doe <john@example.com>
+To: Jane Doe <jane@example.com>
+Subject: Hello
+Content-Type: multipart/mixed; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+Hi Jane,
+How are you?
+
+--boundary
+Content-Type: message/rfc822
+
+From: John Doe <john@example.com>
+To: Jane Doe <jane@example.com>
+Subject: Nested Email
+
+This is a nested email.
+
+--boundary--

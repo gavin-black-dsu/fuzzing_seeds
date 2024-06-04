@@ -1,0 +1,1 @@
+<html><head><script src="script.js"></script></head><body><p>External script</p></body></html>

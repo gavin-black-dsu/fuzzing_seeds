@@ -1,0 +1,16 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Multi-part email
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+This is the body of the email.
+--boundary
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="test.txt"
+
+This is the content of the file.
+--boundary--

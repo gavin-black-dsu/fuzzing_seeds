@@ -1,0 +1,1 @@
+ics.Calendar('\\\\127.0.0.1\\share\\file')

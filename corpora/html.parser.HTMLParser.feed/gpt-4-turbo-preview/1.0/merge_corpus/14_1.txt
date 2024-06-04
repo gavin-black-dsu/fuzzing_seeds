@@ -1,0 +1,1 @@
+<p onclick='alert("clicked")'>Clickable paragraph</p>

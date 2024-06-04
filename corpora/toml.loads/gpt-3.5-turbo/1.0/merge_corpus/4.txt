@@ -1,0 +1,5 @@
+[section]
+
+key = "value"
+[another_section]
+key2 = true

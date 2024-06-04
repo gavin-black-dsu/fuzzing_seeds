@@ -1,0 +1,1 @@
+import pickle; ftplib.FTP(pickle.dumps({"user":"test","passwd":"pass","host":"localhost","port":21}))

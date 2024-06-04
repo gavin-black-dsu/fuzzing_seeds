@@ -1,0 +1,1 @@
+tablib.import_set('"escaped \" quote",data', format='csv')

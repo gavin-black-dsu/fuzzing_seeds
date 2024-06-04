@@ -1,0 +1,1 @@
+{"type": "Feature", "properties": {"name": "Example"}, "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}}

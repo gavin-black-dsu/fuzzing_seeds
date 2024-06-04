@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><h1>Heading</h1><!-- Comment --><?php echo 'PHP code'; ?><div style='background-color:lime;padding:40px;'><h2>CSS is cool</h2></div></body></html>

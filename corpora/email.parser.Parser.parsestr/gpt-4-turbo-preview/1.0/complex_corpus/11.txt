@@ -1,0 +1,6 @@
+Received: by 10.0.0.1 with HTTP; Thu, 22 Jun 2020 12:34:56 -0700 (PDT)
+From: email@example.com
+To: friend@example.com
+Subject: Email with a received header
+
+Checking how received headers are parsed.

@@ -1,0 +1,6 @@
+------1234567890
+Content-Disposition: form-data; name="file"; filename="test.txt"
+Content-Type: text/plain
+
+This is a test file.
+------1234567890--

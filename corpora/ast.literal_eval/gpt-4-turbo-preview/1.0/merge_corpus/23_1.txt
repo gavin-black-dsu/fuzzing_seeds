@@ -1,0 +1,1 @@
+{'invalid\n': 'newline_in_key'}

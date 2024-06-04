@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>Encoding test</title><meta charset="ISO-8859-1"></head><body><p>Non-UTF-8 encoding</p></body></html>

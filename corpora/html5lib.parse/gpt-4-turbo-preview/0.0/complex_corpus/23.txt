@@ -1,0 +1,1 @@
+<html><body><details open ontoggle='alert("fuzz")'><summary>Details</summary><p>Hidden content</p></details></body></html>

@@ -1,0 +1,1 @@
+<html><body><dialog open>Dialog <button onclick='alert("fuzz")'>Click</button></dialog></body></html>

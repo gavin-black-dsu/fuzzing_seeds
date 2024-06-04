@@ -1,0 +1,3 @@
+from typing import List, Dict
+a: List[int] = [1, 2, 3]
+b: Dict[str, int] = {'key': 1}

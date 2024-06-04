@@ -1,0 +1,6 @@
+map:
+  ? key
+  : value
+sequence:
+  - item1
+  - item2

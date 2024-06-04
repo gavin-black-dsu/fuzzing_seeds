@@ -1,0 +1,3 @@
+Message-Id: <1234@example.com>
+
+This is a message with a custom message-id.

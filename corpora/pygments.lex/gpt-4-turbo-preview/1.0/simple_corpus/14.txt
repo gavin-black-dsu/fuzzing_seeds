@@ -1,0 +1,1 @@
+dict_comprehension = {k: v for k, v in enumerate('hello')}

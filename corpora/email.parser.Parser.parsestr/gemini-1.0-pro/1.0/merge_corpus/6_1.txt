@@ -1,0 +1,20 @@
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--===============90887223"
+
+--===============90887223
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is the body of the email.
+
+--===============90887223
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+This is the body of the email in HTML.
+</body>
+</html>
+
+--===============90887223--

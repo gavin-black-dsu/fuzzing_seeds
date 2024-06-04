@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><a href='http://example.com/'>Example</a> &nbsp;&lt;escaped HTML&gt;</body></html>

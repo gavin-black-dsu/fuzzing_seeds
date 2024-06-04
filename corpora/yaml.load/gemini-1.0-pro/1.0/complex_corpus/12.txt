@@ -1,0 +1,7 @@
+'---
+name: Nina
+alerts:
+  - low battery
+  - software update
+  - new message
+---'

@@ -1,0 +1,18 @@
+--boundary
+Content-Disposition: form-data; name="field1"
+
+value1
+--boundary
+Content-Disposition: form-data; name="field2"; filename="example.txt"
+Content-Type: text/plain
+
+This is the content of the file.
+--boundary
+Content-Disposition: form-data; name="field3"
+
+value3
+--boundary
+Content-Disposition: form-data; name="field4"
+
+value4
+--boundary--

@@ -1,0 +1,1 @@
+<div>A</div><span>B</span><img src='foo.png'><script>alert('XSS');</script>

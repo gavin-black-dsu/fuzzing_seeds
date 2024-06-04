@@ -1,0 +1,1 @@
+('Special&Char*Name', 'specialchar.email@example.com')

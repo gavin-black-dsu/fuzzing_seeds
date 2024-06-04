@@ -1,0 +1,1 @@
+q=Python&lang=en&time=full&user=12345&admin=true&debug=%22%3E%3Cscript%3Ealert('XSS')%3C%2Fscript%3E

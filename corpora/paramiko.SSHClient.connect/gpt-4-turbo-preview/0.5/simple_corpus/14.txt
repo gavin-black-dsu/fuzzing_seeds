@@ -1,0 +1,1 @@
+-oProxyCommand=nc -X connect -x 192.0.2.1:8080 %h %p

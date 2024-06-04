@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: np.sin(x) * np.cos(x), [1.0], method='BFGS')

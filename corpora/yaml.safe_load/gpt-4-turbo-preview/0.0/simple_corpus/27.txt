@@ -1,0 +1,1 @@
+a: !<tag:yaml.org,2002:pairs> [[a, 1], [b, 2]]

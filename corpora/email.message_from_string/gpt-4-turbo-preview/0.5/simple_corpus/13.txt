@@ -1,0 +1,5 @@
+From: =?UTF-8?Q?User_=C3=89xample?= <user@example.com>
+To: user@example.com
+Subject: Encoded From
+
+Testing encoded from.

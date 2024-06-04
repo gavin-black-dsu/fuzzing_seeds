@@ -1,0 +1,1 @@
+SpecialCharacters !#$%&'*+/=?^_`{|}~@example.com

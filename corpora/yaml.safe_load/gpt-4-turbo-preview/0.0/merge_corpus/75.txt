@@ -1,0 +1,1 @@
+a: !!str 'special characters \n\r\t\0'

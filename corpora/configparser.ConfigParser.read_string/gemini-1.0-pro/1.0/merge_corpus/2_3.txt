@@ -1,0 +1,4 @@
+[DEFAULT]
+key2=value2
+[group2]
+key3=value3

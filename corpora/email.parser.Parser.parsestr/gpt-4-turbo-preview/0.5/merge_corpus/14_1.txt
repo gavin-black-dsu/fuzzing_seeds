@@ -1,0 +1,7 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Folded headers
+X-Custom-Header: very long header value that should be folded across
+ multiple lines according to the standard
+
+Body with folded headers.

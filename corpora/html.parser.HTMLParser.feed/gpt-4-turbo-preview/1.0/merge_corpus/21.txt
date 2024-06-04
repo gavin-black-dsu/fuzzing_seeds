@@ -1,0 +1,1 @@
+<embed src="http://example.com/xss.swf" type="application/x-shockwave-flash">

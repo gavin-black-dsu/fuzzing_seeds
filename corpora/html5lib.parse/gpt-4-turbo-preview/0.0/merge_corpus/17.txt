@@ -1,0 +1,1 @@
+<html><head><title>Fuzz</title></head><body><embed src='fuzz.swf'/></body></html>

@@ -1,0 +1,1 @@
+'embedded "double quotes" in single'

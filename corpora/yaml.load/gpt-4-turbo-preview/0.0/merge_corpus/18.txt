@@ -1,0 +1,1 @@
+a: !!python/object/apply:os.remove ['important_file.txt']

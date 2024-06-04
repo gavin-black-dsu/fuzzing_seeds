@@ -1,0 +1,8 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Base64 encoding
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIGJhc2U2NCBlbmNvZGVkIGJvZHku

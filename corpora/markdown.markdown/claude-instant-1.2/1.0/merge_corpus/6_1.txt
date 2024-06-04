@@ -1,0 +1,7 @@
+# Heading 1
+
+Paragraph 1
+
+## Heading 2
+
+Paragraph 2 with a [link](https://www.example.com) and an image ![alt text](image.jpg)

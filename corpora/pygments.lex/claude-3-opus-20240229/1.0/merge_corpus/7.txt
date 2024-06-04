@@ -1,0 +1,1 @@
+compile('a' + '\x00' * 100 + 'a', '<string>', 'exec')

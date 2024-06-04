@@ -1,0 +1,1 @@
+mailbox.sub1.sub2@this-domain

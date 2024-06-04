@@ -1,0 +1,1 @@
+https://example.com/path/to/resource?query=longvaluewithspecialcharacters%20%21%40%23

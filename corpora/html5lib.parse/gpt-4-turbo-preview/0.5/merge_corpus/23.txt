@@ -1,0 +1,1 @@
+<html><head><title>JavaScript Injection</title></head><body><script>document.body.innerHTML = '<p>Hacked!</p>';</script></body></html>

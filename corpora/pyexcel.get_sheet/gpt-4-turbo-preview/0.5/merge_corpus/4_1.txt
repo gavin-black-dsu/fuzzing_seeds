@@ -1,0 +1,3 @@
+header1,header2,header3
+"data with ""quotes"" and, comma",123,2023-01-01
+line2,456,2023-01-02

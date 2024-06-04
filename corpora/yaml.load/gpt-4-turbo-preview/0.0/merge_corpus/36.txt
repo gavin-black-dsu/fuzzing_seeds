@@ -1,0 +1,1 @@
+a: !!python/object/apply:__import__('subprocess').run [['whoami'], !!omap ]

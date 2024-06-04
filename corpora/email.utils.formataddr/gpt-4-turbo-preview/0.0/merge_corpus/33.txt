@@ -1,0 +1,1 @@
+('EmailWith\Backslash', 'backslash\email@example.com')

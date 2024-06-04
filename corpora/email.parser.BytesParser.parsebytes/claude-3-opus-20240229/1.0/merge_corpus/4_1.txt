@@ -1,0 +1,8 @@
+From: John Doe <john@example.com>
+To: Jane Doe <jane@example.com>
+Subject: =?utf-8?b?SGVsbG8sIHdvcmxkIQ==?=
+
+Hi Jane,
+How are you?
+Best regards,
+John

@@ -1,0 +1,1 @@
+ftp://user:pass@[2001:db8::1]:21/path

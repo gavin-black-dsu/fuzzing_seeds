@@ -1,0 +1,4 @@
+From: ="user@example.com"
+To: user2@example.com
+
+Body with malformed from header.

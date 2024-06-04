@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230714T170000Z
+DTEND:20230715T035959Z
+SUMMARY:Sample Event
+DESCRIPTION:This is a sample description with potentially malicious <script>alert('XSS')</script>
+END:VEVENT
+END:VCALENDAR

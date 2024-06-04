@@ -1,0 +1,4 @@
+try:
+    raise ValueError('A very specific bad thing happened.')
+except ValueError as e:
+    print(e)

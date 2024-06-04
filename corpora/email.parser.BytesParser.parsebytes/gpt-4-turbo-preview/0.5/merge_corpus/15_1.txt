@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Email with multiple From headers
+From: anotheruser@example.com
+
+Body with conflicting headers.

@@ -1,0 +1,5 @@
+[section]
+key=value
+
+[section2]
+= value2

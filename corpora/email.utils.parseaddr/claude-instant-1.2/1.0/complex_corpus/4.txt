@@ -1,0 +1,1 @@
+'Long Name <very_long_email_address_exceeding_64_characters@domain.co.uk>'

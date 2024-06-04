@@ -1,0 +1,1 @@
+<html><head><title>Test</title></head><body><h1>Hello, world!</h1><p>This is a test with <span style="color: red;">red text</span>.</p></body></html>

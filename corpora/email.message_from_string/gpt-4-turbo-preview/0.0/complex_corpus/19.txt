@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Email with form feed
+
+This body has form feed.

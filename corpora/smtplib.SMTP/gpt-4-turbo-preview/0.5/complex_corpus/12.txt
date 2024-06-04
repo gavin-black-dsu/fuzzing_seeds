@@ -1,0 +1,1 @@
+smtp+tls://smtp.example.com:587

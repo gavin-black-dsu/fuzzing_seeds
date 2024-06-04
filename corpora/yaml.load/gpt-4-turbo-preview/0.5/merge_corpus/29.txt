@@ -1,0 +1,3 @@
+a: !!omap
+- key: value
+- anotherKey: anotherValue

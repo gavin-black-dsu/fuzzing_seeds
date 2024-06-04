@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test email
+
+Body with SQL injection attempt: ' OR '1'='1

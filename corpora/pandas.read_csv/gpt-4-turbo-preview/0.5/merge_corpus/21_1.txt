@@ -1,0 +1,2 @@
+special chars,✓,✗
+100,✔,✘

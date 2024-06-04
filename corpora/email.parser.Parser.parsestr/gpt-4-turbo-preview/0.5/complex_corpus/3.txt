@@ -1,0 +1,6 @@
+To: recipient@example.com
+From: user@example.com
+Subject: Multi-line
+ Subject continuation
+
+Body starts here.

@@ -1,0 +1,1 @@
+multiline_string = '''This is a multi-line string'''

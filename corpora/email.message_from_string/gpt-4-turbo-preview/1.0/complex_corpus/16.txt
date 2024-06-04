@@ -1,0 +1,5 @@
+From: "=?UTF-8?B?Sm9obiBEb2U=?=" <john.doe@example.com>
+To: jane.doe@example.com
+Subject: Special Characters ñ
+
+Testing special characters in the subject.

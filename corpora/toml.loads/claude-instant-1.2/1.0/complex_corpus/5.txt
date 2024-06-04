@@ -1,0 +1,9 @@
+
+title = "PyTOML"
+description = "Python library for TOML"
+author = "mosky"
+version = "0.5.3"
+
+[python]
+requires = ">=2.7, <4"
+packages = ["toml"]

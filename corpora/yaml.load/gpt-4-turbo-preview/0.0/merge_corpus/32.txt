@@ -1,0 +1,1 @@
+a: !!python/object/apply:__builtins__.open ['file_to_open.txt']

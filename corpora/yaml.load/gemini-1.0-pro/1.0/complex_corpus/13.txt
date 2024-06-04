@@ -1,0 +1,7 @@
+'---
+name: Oscar
+history:
+  - 2020: Graduated college
+  - 2021: Started working
+  - 2022: Promoted to manager
+---'

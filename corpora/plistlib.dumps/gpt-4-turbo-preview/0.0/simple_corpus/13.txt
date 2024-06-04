@@ -1,0 +1,1 @@
+{'a': float('nan'), 'b': float('inf'), 'c': -float('inf')}

@@ -1,0 +1,4 @@
+name,age,city
+John,28,New York
+	Sarah,32,Los Angeles
+Mike,25,  Chicago

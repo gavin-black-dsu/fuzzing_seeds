@@ -1,0 +1,1 @@
+a: !!python/object/apply:socket.socket [ ['AF_INET', 'SOCK_STREAM'] ]

@@ -1,0 +1,1 @@
+A string with ?, (, ), [, ], ws, \ character and also contains «éé, emojis 😊 and other special chars *!;

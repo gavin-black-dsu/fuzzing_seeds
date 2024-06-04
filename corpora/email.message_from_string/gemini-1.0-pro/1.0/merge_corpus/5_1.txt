@@ -1,0 +1,6 @@
+Received: (qmail 24068 invoked by uid 500); Thu, 25 Apr 2002 02:  5:16 -0000
+Delivered-To: recipient@example.com
+Received: (qmail 24067 invoked from network); Thu, 25 Apr 2002 02: 5:16 -0000
+Received: from mailhub.sitecom.net (mailhub.sitecom.net [x.x.x.x])
+ by enigma.emc.com (8.6.12/8.6.12) with SMTP id IAA07863
+ for <>

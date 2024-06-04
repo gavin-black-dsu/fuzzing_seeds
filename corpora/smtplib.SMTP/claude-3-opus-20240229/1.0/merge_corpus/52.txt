@@ -1,0 +1,1 @@
+\xffsmtp.example.com:25

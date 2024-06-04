@@ -1,0 +1,5 @@
+Subject: =?utf-8?Q?Curious_=F0=9F=98=89?= Test
+From: user@example.com
+To: recipient@example.com
+
+Sending an email with emojis in the subject line.

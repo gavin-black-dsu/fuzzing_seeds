@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>Fuzz Test</title></head><body><h1>html5lib Fuzzing</h1></body></html>

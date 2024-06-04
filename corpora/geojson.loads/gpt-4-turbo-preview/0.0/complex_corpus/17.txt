@@ -1,0 +1,1 @@
+{"type": "InvalidType", "coordinates": [0, 0]}

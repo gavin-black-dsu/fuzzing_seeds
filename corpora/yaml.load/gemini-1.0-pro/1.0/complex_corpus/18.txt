@@ -1,0 +1,7 @@
+'---
+name: Tom
+thoughts:
+  - I need to buy groceries tomorrow.
+  - I should call my mom tonight.
+  - I wish I had more time to travel.
+---'

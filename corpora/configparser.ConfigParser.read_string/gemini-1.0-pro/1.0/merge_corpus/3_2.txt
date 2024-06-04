@@ -1,0 +1,5 @@
+[section]
+    a = 1
+    b = hello
+    c = 1.23
+    

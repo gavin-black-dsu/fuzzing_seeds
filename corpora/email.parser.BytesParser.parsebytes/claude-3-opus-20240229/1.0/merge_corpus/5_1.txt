@@ -1,0 +1,9 @@
+From: John Doe <john@example.com>
+To: Jane Doe <jane@example.com>
+Subject: Hello
+X-Custom-Header: Value
+
+Hi Jane,
+How are you?
+Best regards,
+John

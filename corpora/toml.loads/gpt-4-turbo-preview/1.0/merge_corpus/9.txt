@@ -1,0 +1,5 @@
+[table.array]
+[[table.array]]
+key = "value"
+[[table.array]]
+key2 = "another value"

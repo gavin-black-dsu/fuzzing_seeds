@@ -1,0 +1,1 @@
+paramiko.SSHClient().connect('ftp://1.2.3.4:21', username='user', password='pass')

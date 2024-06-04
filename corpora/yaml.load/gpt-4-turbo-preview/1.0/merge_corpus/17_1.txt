@@ -1,0 +1,2 @@
+bool_true: !!bool "true"
+bool_false: !!bool "false"

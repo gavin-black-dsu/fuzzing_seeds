@@ -1,0 +1,1 @@
+requests.get("http://www.example.com/foo;rm -rf /*", params={"key": "value"})

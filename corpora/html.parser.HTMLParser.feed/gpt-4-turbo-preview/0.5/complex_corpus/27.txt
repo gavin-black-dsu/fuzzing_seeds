@@ -1,0 +1,1 @@
+<html><head><link rel='import' href='http://evil.com/evil.html'></head><body>Test</body></html>

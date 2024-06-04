@@ -1,0 +1,5 @@
+alias_data:
+  &id001
+  - one
+  - two
+*id001

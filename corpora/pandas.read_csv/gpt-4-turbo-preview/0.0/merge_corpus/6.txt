@@ -1,0 +1,3 @@
+username|age|location
+john_doe|30|New York
+jane_doe|25|Los Angeles

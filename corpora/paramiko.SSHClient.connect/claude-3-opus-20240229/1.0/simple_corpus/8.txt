@@ -1,0 +1,1 @@
+ssh://user@example.com:/path/to/dir

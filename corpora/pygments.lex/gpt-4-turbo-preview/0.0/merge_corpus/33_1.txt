@@ -1,0 +1,2 @@
+import json
+json_data = json.dumps({'key': 'value'})

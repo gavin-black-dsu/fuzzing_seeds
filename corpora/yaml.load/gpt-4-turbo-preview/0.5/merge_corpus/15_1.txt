@@ -1,0 +1,1 @@
+special_characters: "\x0a\x0d\x1b"

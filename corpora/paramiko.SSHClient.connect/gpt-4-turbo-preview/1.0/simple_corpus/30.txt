@@ -1,0 +1,1 @@
+ssh.-oProxyCommand=none@example.com

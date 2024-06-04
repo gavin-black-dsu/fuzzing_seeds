@@ -1,0 +1,7 @@
+'---
+name: Sarah
+secrets:
+  - password: 123456
+  - pin: 1234
+  - question: What was your first pet's name?
+---'

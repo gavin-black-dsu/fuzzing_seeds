@@ -1,0 +1,19 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Nested multipart
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="outer-boundary"
+
+--outer-boundary
+Content-Type: multipart/alternative; boundary="inner-boundary"
+
+--inner-boundary
+Content-Type: text/plain
+
+This is the plain text part.
+--inner-boundary
+Content-Type: text/html
+
+<html><body>This is the HTML part.</body></html>
+--inner-boundary--
+--outer-boundary--

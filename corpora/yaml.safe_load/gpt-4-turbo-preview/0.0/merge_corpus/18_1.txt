@@ -1,0 +1,2 @@
+explicit_id: !!python/object:__main__.CustomClass
+  attr: value

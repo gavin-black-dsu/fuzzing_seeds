@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test
+Content-Type: text/plain; charset="utf-8"
+
+Unicode \u1234\u5678

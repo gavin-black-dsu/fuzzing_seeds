@@ -1,0 +1,7 @@
+From: user@example.com
+To: recipient@example.com
+Subject: 
+MIME-Version: 1.0
+Content-Type: ; charset="utf-8"
+
+Body with incomplete Content-Type.

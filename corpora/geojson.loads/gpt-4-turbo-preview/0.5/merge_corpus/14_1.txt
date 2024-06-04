@@ -1,0 +1,1 @@
+{"type": null, "coordinates": [25.3, 10.1]}

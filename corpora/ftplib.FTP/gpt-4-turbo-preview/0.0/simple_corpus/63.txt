@@ -1,0 +1,1 @@
+ftp://user:pass@host/path;param1=value1;param2=value2/./subpath/

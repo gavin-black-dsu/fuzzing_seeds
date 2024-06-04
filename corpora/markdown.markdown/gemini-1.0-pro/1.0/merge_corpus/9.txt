@@ -1,0 +1,3 @@
+```xml
+<tag attr="value">Text</tag>
+```

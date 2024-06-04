@@ -1,0 +1,1 @@
+<html><head><link rel="stylesheet" href="data:text/css,fuzz"></head><body>Link Style</body></html>

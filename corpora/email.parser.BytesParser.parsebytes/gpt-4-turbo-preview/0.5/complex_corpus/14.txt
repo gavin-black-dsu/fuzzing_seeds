@@ -1,0 +1,11 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Email with incomplete multipart
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+This is the body of the email.
+--boundary

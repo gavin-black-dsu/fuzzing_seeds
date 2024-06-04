@@ -1,0 +1,1 @@
+import_set('ftp://example.org/file.csv', format='csv')

@@ -1,0 +1,1 @@
+<html><head><script>z=1; while(z<10000) z++; </script></head><body><p>Big loop</p></body></html>

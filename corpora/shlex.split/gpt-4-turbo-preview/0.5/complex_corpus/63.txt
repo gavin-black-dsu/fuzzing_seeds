@@ -1,0 +1,1 @@
+text with high unicode 𝔘𝔫𝔦𝔠𝔬𝔡𝔢 characters

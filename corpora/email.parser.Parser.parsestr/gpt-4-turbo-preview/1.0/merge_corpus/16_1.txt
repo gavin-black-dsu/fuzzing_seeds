@@ -1,0 +1,5 @@
+From user-without-brackets@example.com
+To: Recipient Name <recipient@example.com>
+Subject: Missing from brackets
+
+This email has a from without angle brackets.

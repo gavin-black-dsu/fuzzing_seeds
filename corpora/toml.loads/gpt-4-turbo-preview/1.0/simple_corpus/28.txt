@@ -1,0 +1,2 @@
+key = "value"
+"orphaned_key_without_equals

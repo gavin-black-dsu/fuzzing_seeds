@@ -1,0 +1,1 @@
+{'key': b'binary_data'}

@@ -1,0 +1,1 @@
+pyexcel.get_sheet(file_type='csv', file_content={1:{'a':1,'b':2},2:{'c':3,'d':4}})

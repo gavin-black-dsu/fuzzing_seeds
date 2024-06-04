@@ -1,0 +1,1 @@
+text/csv; header=present; charset=iso-8859-1

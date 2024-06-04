@@ -1,0 +1,2 @@
+import yaml
+ yaml.load({'key': '{data}'}, Loader=yaml.FullLoader)

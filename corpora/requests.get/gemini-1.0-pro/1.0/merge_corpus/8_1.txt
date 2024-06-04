@@ -1,0 +1,1 @@
+https://example.com/api/v7/users/me/orders/{order_id}

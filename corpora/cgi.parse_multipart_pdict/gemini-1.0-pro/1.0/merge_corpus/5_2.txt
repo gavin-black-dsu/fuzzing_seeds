@@ -1,0 +1,6 @@
+--foo
+Content-Disposition: form-data; name=field2; filename=test.txt
+Content-Type: text/plain
+
+value2
+--foo--

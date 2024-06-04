@@ -1,0 +1,1 @@
+http://example.com/path/to/resource/%2e%2e%2f%2e%2e%2f

@@ -1,0 +1,2 @@
+Newline=
+=0Ashould be fine

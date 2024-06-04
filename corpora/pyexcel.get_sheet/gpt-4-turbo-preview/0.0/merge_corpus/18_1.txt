@@ -1,0 +1,2 @@
+embedded"quote,valid
+new line,also valid

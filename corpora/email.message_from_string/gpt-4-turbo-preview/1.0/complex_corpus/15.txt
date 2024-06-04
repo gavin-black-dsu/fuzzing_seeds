@@ -1,0 +1,4 @@
+From: no-reply@example.com
+Subject: Account Activation
+
+Please activate your account by clicking on the following link: <a href="http://example.com/activate">Activate</a>.

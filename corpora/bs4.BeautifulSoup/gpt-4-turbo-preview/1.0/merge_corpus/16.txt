@@ -1,0 +1,1 @@
+<script type='module'>import * from 'http://example.com/script.js';</script>

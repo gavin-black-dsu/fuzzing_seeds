@@ -1,0 +1,1 @@
+ftp://user:pass@example.com:-1/path/to/file.txt

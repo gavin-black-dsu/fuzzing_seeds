@@ -1,0 +1,9 @@
+'---
+name: Jed
+relationships:
+  father: John
+  mother: Mary
+  siblings:
+    - Jane
+    - Jake
+---'

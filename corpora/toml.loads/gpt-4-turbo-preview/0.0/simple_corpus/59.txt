@@ -1,0 +1,1 @@
+key = 'This string has a \n newline character.'

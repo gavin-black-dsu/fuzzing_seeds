@@ -1,0 +1,1 @@
+{'model': 'app.product', 'pk': 1, 'fields': {'name': 'Product A', 'price': 19.99, 'description': 'This is a sample product description.'}}

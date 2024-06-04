@@ -1,0 +1,1 @@
+smtplib.SMTP(('mail.mydomain.com', 25))

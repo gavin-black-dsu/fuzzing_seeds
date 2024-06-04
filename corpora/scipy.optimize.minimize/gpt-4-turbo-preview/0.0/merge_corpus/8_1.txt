@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: np.dot(x, x) - 10*np.cos(2*np.pi*x) + 10, x0=[0.8], method='BFGS')

@@ -1,0 +1,5 @@
+From: warning@example.com
+To: alerts@example.com
+Subject: Warning
+
+This is a warning message.

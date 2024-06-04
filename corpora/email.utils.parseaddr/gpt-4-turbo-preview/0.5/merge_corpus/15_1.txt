@@ -1,0 +1,1 @@
+"Very.very.long.email.address@example.com.is.very.long.indeed.surely.this.will.break.some.implementations" <very.very.long.email.address@example.com.is.very.long.indead.surely.this.will.break.some.implementations@example.com>

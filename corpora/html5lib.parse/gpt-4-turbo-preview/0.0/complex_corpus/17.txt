@@ -1,0 +1,1 @@
+<html><body><div style='background-image: url(javascript:alert("fuzz"));'>Test</div></body></html>

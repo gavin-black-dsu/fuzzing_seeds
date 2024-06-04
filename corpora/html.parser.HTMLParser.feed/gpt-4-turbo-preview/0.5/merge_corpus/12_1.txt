@@ -1,0 +1,1 @@
+<math><mtext></mtext><mglyph onload=alert(1)></mglyph></math>

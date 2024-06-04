@@ -1,0 +1,6 @@
+--boundary
+Content-Disposition: form-data; name="base64"; filename="file.txt"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIGJhc2U2NCBlbmNvZGVkIGZpbGUu
+--boundary--

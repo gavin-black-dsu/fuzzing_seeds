@@ -1,0 +1,1 @@
+<html><body><img src='https://www.example.com/image.jpg' alt='Example Image'></body></html>

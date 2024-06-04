@@ -1,0 +1,4 @@
+key = """
+This is another multiline string
+which also spans more than one line
+"""

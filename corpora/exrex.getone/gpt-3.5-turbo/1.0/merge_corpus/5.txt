@@ -1,0 +1,1 @@
+exrex.getone('a1b2c3d4e5')

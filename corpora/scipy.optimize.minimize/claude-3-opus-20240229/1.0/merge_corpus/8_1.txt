@@ -1,0 +1,1 @@
+scipy.optimize.minimize(scipy.sparse.eye(1000), scipy.sparse.csr_matrix((1,1000)), method='BFGS')

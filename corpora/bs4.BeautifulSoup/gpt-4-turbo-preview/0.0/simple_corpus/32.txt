@@ -1,0 +1,1 @@
+<html><body><p>Valid HTML structure</p></body></html>

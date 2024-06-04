@@ -1,0 +1,1 @@
+https://example.com/path/to/script.php?query=param&another=param2

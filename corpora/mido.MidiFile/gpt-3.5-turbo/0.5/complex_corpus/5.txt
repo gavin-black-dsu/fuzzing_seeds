@@ -1,0 +1,1 @@
+mido.MidiFile(file=io.BytesIO(b'\x55\x66\x77\x88\x99'))

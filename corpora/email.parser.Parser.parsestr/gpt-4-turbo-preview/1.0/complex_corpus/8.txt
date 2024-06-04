@@ -1,0 +1,8 @@
+From: user@domain.com
+To: recipient@domain.com
+Subject: Multiple
+ lines
+ in
+ subject
+
+Testing multiline subjects.

@@ -1,0 +1,2 @@
+json_like,{"key": "value"}
+{"another": "item"},value

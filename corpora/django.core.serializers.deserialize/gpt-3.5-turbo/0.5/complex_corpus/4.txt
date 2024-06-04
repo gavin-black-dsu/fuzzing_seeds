@@ -1,0 +1,1 @@
+{"model": "auth.permission", "pk": 1, "fields": {"name": "add_user", "content_type": 1}}

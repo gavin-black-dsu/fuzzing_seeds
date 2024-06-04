@@ -1,0 +1,1 @@
+Cookie: SESSID=12345; foo=bar

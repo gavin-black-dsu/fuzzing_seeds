@@ -1,0 +1,1 @@
+inlineTable = { key = "value", anotherKey = 123 }

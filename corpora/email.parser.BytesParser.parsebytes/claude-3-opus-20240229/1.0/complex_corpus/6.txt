@@ -1,0 +1,17 @@
+From: John Doe <john@example.com>
+To: Jane Doe <jane@example.com>
+Subject: Hello
+Content-Type: multipart/mixed; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+Hi Jane,
+How are you?
+
+--boundary
+Content-Type: text/html
+
+<html><body><h1>Hi Jane,</h1><p>How are you?</p></body></html>
+
+--boundary--

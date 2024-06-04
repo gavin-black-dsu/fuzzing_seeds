@@ -1,0 +1,1 @@
+application/ld+json; charset=utf-8

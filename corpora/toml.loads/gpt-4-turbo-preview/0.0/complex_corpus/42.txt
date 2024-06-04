@@ -1,0 +1,4 @@
+key = """
+Another multiline string
+with # another comment
+"""

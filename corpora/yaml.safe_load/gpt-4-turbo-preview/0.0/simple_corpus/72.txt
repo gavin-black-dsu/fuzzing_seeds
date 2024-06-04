@@ -1,0 +1,1 @@
+a: !!str 'embedded    multiple spaces'

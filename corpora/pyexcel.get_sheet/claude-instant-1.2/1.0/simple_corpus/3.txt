@@ -1,0 +1,3 @@
+data='spam
+eggs
+ham'

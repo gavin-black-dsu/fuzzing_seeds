@@ -1,0 +1,5 @@
+From: =?utf-8?B?dXNlckBleGFtcGxlLmNvbQ==?= <user@example.com>
+To: recipient@example.com
+Subject: Encoded subject
+
+This email has an encoded subject line.

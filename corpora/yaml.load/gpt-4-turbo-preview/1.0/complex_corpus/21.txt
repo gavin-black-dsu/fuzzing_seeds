@@ -1,0 +1,4 @@
+>-
+  folded style text with newlines
+  preserved for more readable
+  text blocks.

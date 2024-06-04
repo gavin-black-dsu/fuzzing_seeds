@@ -1,0 +1,1 @@
+ics.Calendar('data:;base64,SGVsbG8gV29ybGQh')

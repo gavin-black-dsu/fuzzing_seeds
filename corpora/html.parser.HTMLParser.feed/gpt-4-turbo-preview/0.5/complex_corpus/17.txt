@@ -1,0 +1,1 @@
+<form action='http://evil.com' method='POST'><input type='submit'></form>

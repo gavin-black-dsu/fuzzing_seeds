@@ -1,0 +1,1 @@
+PIL.Image.open(io.BytesIO( bytearray(range(1024))*100 + b"fuzzy data 5"))

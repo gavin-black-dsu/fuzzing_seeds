@@ -1,0 +1,5 @@
+From: fred@example.com
+To: barney@example.com
+Content-Type: text/plain
+
+data0123456789012345678901234567890123456789012345678901234567890123456789

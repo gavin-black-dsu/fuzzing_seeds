@@ -1,0 +1,1 @@
+scipy.optimize.minimize(b'\x00\xff', 'foo', method='BFGS')

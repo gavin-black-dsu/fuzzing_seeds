@@ -1,0 +1,5 @@
+From: =?UTF-8?B?7ZWc6riw?=@example.com
+To: recipient@example.com
+Subject: =?UTF-8?B?VGVzdCBFbWFpbA==?=
+
+Body with encoded UTF-8 characters in the headers.

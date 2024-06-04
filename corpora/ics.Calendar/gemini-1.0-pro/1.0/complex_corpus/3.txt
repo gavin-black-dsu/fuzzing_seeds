@@ -1,0 +1,1 @@
+https://www.example.net/caldav/calendars/__uids__/CALENDARID.ics

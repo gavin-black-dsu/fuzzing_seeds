@@ -1,0 +1,4 @@
+Received: by smtp.example.com (Postfix, from userid 102) id 1B24D51398; Sat, 23 Aug 2020 17:41:01 +0900 (JST)
+From: test@example.com
+To: you@example.com
+Subject: Hello

@@ -1,0 +1,5 @@
+From: <>
+To: <>
+Subject: Empty fields
+
+The From and To fields are empty.

@@ -1,0 +1,4 @@
+multiline
+in one cell,"This is
+a test
+of multiline"

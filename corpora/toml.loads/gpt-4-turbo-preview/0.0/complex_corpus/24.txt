@@ -1,0 +1,5 @@
+[table]
+key = [1, 2, 3]
+
+[table]
+key = ['one', 'two', 'three']

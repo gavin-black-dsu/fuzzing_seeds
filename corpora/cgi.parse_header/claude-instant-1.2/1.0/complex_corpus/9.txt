@@ -1,0 +1,3 @@
+Cookie: SESSID=12345; foo=bar
+Content-Length: 1234; charset=utf-8
+Content-Type: text/html

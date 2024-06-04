@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Multiple recipients
+To: another@example.com
+
+Email with multiple To: fields.

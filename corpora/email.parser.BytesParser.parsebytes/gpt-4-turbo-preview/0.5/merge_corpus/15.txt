@@ -1,0 +1,10 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test email
+Content-Type: multipart/mixed; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+This is the body.
+--boundary--

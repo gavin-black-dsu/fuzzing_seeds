@@ -1,0 +1,3 @@
+X-YMail-OSG: Received: by 10.216.45.8; Thu, 28 May 2020 14:54:32 +0000
+
+Yahoo mail specific headers followed by body content.

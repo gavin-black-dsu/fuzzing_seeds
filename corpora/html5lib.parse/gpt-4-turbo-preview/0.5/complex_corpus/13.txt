@@ -1,0 +1,1 @@
+<html><body><p onclick='alert("Clicked!")'>Click me.</p></body></html>

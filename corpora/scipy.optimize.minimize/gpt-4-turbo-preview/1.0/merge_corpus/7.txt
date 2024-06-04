@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: (x[0]-1)*(x[1]-2), x0=[2, 1], method='BFGS')

@@ -1,0 +1,1 @@
+{"inf": Infinity, "neginf": -Infinity, "nan": NaN}

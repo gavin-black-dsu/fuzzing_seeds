@@ -1,0 +1,1 @@
+{"keys_are_strings":true,"numbers":[0,0e+0,0E-0,0x0,0b0],"booleans":[true,false]}

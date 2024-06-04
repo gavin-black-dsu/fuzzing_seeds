@@ -1,0 +1,8 @@
+From: user@example.com
+To: user@example.com
+Subject: Test
+
+Body with
+.splitlines() method
+which may
+affect parsing.

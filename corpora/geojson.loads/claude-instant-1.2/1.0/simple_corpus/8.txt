@@ -1,0 +1,1 @@
+{"type": "Point", "coordinates": {"x":115, "y":-35}}

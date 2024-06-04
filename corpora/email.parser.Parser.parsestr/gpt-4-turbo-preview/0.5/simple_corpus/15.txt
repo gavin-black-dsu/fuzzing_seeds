@@ -1,0 +1,6 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Invalid Content-Type
+Content-Type: 
+
+This email has an invalid Content-Type.

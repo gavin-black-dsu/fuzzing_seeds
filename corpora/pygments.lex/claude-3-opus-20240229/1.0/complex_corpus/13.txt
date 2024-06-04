@@ -1,0 +1,5 @@
+from collections import Counter
+
+word_list = ["apple", "banana", "apple", "orange", "banana", "apple"]
+word_counts = Counter(word_list)
+print(word_counts)

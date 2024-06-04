@@ -1,0 +1,3 @@
+msg = f'''This is a multiline string
+with an embedded expression: {x + y}'''
+print(msg)

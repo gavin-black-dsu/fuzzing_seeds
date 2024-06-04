@@ -1,0 +1,6 @@
+------WebKitFormBoundary123456
+Content-Disposition: form-data; name="file"; filename="test.txt"
+Content-Type: text/plain
+
+This is a test file.
+------WebKitFormBoundary123456--

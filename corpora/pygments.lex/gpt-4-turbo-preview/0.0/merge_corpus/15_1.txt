@@ -1,0 +1,2 @@
+async def fetch_data(db):
+    await db.query('SELECT * FROM table')

@@ -1,0 +1,3 @@
+pandas.read_csv(io.StringIO('
+
+'))

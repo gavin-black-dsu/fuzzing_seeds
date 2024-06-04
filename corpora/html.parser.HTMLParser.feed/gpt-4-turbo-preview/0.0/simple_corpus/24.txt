@@ -1,0 +1,1 @@
+<html><head><style>malformed css {color: red;</style></head><body><p>Styled text</p></body></html>

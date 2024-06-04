@@ -1,0 +1,1 @@
+text with object replacement character ￼

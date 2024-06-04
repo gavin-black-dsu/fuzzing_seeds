@@ -1,0 +1,1 @@
+requests.get({data}, params={'key': 'value'})

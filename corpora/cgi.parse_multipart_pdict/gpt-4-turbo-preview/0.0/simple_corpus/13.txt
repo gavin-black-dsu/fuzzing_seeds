@@ -1,0 +1,14 @@
+--boundary
+Content-Disposition: form-data; name="field1"
+
+value1
+--boundary
+Content-Disposition: form-data; name="field2"
+Content-Type: multipart/mixed; boundary=innerboundary
+
+--innerboundary
+Content-Disposition: form-data; name="subfield1"
+
+subvalue1
+--innerboundary--
+--boundary--

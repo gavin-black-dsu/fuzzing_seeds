@@ -1,0 +1,1 @@
+scipy.optimize.minimize(np.array([1,2,3]), np.array([0,0]), method='BFGS')

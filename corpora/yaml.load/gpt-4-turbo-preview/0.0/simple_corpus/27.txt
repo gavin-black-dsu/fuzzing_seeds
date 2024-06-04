@@ -1,0 +1,1 @@
+a: !!python/object/apply:compile ['print("compiling code")', 'a string', 'exec']

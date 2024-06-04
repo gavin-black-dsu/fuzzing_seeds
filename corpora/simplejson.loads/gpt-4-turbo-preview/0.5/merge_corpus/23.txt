@@ -1,0 +1,1 @@
+{"escapedChars": "\t\n\r\f\b\/\\\""}

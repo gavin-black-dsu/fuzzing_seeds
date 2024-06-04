@@ -1,0 +1,8 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test email
+
+Body with malformed headers
+Bad: Header
+
+Good: Header

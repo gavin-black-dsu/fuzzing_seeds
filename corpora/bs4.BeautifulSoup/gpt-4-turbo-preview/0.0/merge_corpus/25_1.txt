@@ -1,0 +1,1 @@
+<html><body><h2>Use of Entities</h2><p>The ampersand symbol (&) should be written as &amp;.</p></body></html>

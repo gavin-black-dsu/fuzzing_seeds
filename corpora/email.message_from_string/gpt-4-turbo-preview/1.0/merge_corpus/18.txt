@@ -1,0 +1,5 @@
+From: user@example.com
+To: ; DROP TABLE users; --
+Subject: Test Email
+
+SQL injection attempt in the To header.

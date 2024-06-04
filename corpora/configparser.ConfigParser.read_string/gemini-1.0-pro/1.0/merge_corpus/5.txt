@@ -1,0 +1,5 @@
+; comment
+[section]
+key=value
+[section2]
+key2=value2

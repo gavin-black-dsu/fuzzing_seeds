@@ -1,0 +1,18 @@
+From: Sender <sender@example.com>
+To: Recipient <recipient@example.com>
+Subject: HTML email
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Hello World!</p>
+<img src="attachment:image.jpg"/>
+</body>
+</html>
+
+--boundary
+Content-Type: image/jpeg; name=image.jpg
+Content-Transfer-Encoding: base64
+
+SUQlM0NpbWFnZSBkYXRhIHdpdGggaW52YWxpZCBiYXNlNjRzdHJpbmdbXFxuLS1ib3VuZGFyeS0t

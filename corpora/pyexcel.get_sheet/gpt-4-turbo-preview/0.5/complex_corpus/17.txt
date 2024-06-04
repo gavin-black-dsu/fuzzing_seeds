@@ -1,0 +1,3 @@
+emoji,description
+😀,"happy face"
+👻,"ghost, spooky"

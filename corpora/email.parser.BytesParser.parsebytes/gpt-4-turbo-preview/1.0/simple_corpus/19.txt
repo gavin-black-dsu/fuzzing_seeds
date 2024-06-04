@@ -1,0 +1,9 @@
+X-Apparently-To: recipient@example.com via 192.0.2.43; Wed, 21 Jun 2023 10:05:33 +0000
+X-YahooFilteredBulk: 192.168.1.1
+Return-Path: <user@example.com>
+Received: from 127.0.0.1
+From: user@example.com
+To: recipient@example.com
+Subject: Email with extra headers
+
+This email includes several non-standard headers.

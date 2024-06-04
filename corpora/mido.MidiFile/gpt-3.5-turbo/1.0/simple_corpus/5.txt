@@ -1,0 +1,1 @@
+mido.MidiFile(file=io.BytesIO(b'ÿÿÿÿÿ'))

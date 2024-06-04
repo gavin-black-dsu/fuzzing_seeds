@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+From: user@example.com
+To: recipient@example.com
+Subject: Test Email
+
+<html>
+<body>
+<p>This is a test email in HTML format.</p>
+</body>
+</html>

@@ -1,0 +1,2 @@
+import scipy.integrate as spi
+result = spi.quad(lambda x: x**2, 0, 4)

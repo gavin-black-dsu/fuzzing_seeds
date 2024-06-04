@@ -1,0 +1,14 @@
+From: user@example.com
+To: recipient@example.com
+Content-Type: multipart/mixed; boundary="boundary"
+
+--boundary
+Content-Type: text/plain
+
+This is the body of the email.
+--boundary
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="file.txt"
+
+Hello, world!
+--boundary--

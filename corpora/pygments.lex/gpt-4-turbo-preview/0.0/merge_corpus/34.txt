@@ -1,0 +1,2 @@
+from itertools import permutations
+list(permutations([1, 2, 3]))

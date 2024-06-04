@@ -1,0 +1,5 @@
+class MyClass:
+	def __init__(self):
+		self.attribute = 0
+	def method(self):
+		return self.attribute

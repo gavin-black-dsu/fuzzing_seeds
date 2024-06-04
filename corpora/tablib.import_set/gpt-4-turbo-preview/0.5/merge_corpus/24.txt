@@ -1,0 +1,5 @@
+special
+chars
+new
+line
+formfeedcarriagereturn

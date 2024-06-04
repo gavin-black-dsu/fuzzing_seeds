@@ -1,0 +1,11 @@
+--boundary
+Content-Disposition: form-data; name="field1"; filename="file1.txt"
+Content-Type: text/plain
+
+Content of file 1.
+--boundary
+Content-Disposition: form-data; name="field2"; filename="file2.txt"
+Content-Type: text/plain
+
+Content of file 2.
+--boundary--

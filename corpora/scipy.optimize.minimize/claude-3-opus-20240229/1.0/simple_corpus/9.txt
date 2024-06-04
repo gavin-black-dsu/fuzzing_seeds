@@ -1,0 +1,1 @@
+scipy.optimize.minimize(b'\x00\x00\x00\x00\x00\x00\x00\x00', [0, 0], method='BFGS')

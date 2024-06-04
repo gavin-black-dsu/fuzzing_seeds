@@ -1,0 +1,7 @@
+--boundary
+Content-Disposition: form-data; name="script"; filename="script.sh"
+Content-Type: application/x-sh
+
+#!/bin/bash
+echo "Hello, world!"
+--boundary--

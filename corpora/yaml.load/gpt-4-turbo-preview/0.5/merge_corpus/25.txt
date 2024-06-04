@@ -1,0 +1,2 @@
+a: !!str &a1 'This is a anchored string'
+b: *a1

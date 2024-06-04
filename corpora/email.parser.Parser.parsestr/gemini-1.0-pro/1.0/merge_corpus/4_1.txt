@@ -1,0 +1,4 @@
+From: sender@example.com
+Subject: Long subject line with special characters: !@#$%^&*()<>?"'[]{}|\/~`
+
+This is the body of the email.

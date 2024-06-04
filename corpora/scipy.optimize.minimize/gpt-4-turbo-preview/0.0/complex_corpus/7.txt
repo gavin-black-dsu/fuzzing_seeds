@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: np.sum(x**2) + np.prod(np.tan(x)), x0=np.random.rand(5), method='BFGS')

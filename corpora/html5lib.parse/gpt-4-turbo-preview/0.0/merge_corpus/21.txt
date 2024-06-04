@@ -1,0 +1,1 @@
+<html><body><input type='image' src='fuzz' onerror='alert("fuzz")'></body></html>

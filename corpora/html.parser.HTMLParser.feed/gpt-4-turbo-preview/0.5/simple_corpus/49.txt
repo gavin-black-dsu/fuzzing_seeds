@@ -1,0 +1,1 @@
+<html><body><datalist id='browsers'><option value='Chrome'></option></datalist><input list='browsers'></body></html>

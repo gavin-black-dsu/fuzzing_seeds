@@ -1,0 +1,7 @@
+
+[user]
+name = "John Doe"
+[[user.phones]]
+number = "123-456-7890"
+[[user.phones]]
+number = "234-567-8901"

@@ -1,0 +1,1 @@
+import_set('http://example.com/data.csv', format='csv')

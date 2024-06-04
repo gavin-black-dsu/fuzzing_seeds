@@ -1,0 +1,7 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Test
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="test.txt"
+
+This is a test attachment.

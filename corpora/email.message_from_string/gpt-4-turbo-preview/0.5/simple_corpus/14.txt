@@ -1,0 +1,6 @@
+From: user@example.com
+To: user@example.com
+Subject: Test
+X-Unknown-Header: Unknown
+
+Testing unknown header.

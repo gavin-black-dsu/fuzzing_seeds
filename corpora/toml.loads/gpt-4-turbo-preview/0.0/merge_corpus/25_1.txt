@@ -1,0 +1,5 @@
+[[arrayOfTables]]
+key = 'value'
+
+[arrayOfTables.subTable]
+key = 'subValue'

@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: np.sin(x) * np.cos(x), x0=-1)

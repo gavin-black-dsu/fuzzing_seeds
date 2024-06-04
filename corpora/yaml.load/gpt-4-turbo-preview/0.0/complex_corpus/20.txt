@@ -1,0 +1,3 @@
+a: !!float 'NaN'
+b: !!float 'inf'
+c: !!float '-inf'

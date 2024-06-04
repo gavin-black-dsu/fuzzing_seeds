@@ -1,0 +1,1 @@
+scipy.optimize.minimize(lambda x: -np.sum(np.sqrt(x)), [1, 4, 9, 16], method='BFGS')

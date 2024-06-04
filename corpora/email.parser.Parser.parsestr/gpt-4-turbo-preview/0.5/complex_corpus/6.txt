@@ -1,0 +1,5 @@
+From: =?UTF-8?B?8J+ktA==?= <user@example.com>
+To: recipient@example.com
+Subject: Emoji in from address 📧
+
+Email body with emoji.

@@ -1,0 +1,1 @@
+<style>body {background-image: url('http://example.com/evil.jpg');}</style>

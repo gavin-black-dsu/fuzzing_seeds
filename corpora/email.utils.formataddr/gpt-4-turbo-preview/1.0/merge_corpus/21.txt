@@ -1,0 +1,1 @@
+('UTF8😊Name', 'utf8.email@example.com')

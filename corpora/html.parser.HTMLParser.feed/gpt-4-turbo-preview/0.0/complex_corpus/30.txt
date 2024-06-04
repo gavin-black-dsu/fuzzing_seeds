@@ -1,0 +1,1 @@
+<html><body><p style='color: #FF0000;'>Inline styles.</p></body></html>

@@ -1,0 +1,1 @@
+wave.open(io.BytesIO(b'A'*1024+'B'*1024), 'rb')

@@ -1,0 +1,6 @@
+From: user@example.com
+To: "User, Another" <user2@example.com>
+Subject: Test
+X-Unusual-Header: ÿÿ
+
+Body with binary in header

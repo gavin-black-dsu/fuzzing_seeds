@@ -1,0 +1,3 @@
+- &anchor_name
+  key: value
+- *anchor_name

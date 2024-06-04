@@ -1,0 +1,1 @@
+<html><body><blockquote>A quoted paragraph.</blockquote></body></html>

@@ -1,0 +1,1 @@
+{'book': b'<some_random_data>'}

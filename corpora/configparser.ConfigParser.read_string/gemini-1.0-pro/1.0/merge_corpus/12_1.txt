@@ -1,0 +1,6 @@
+[section]
+key=value
+key2=value2
+[:key:]][section2]
+key=value
+key2=value2

@@ -1,0 +1,1 @@
+<info><title>test</title><description>foo</description></info>

@@ -1,0 +1,3 @@
+Subject: "Special Characters" Test
+
+This message contains special characters like !@#$%^&*()_+-=[]{}|;':,./?

@@ -1,0 +1,2 @@
+a string with a mix of everything: spaces, tabs	, newlines
+, quotes"'`, and special characters \|&*?<>[]{}$%^#%@!

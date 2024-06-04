@@ -1,0 +1,1 @@
+text with everything "quotes 'nested'" /slashes \backslashes --options=`backticks` | pipe > redirection < * ? [range] {brace}; semicolon: colon, comma

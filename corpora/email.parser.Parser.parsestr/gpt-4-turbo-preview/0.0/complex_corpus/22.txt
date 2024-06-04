@@ -1,0 +1,5 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Format String Vulnerabilities
+
+Body with format string vulnerabilities %s %d %x

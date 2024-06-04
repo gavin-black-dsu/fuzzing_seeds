@@ -1,0 +1,1 @@
+Long string with no equals sign to test boundary conditions and see how the function behaves when there's no encoding to be done at all but the string is still quite long to process and handle within the context of the decodestring function

@@ -1,0 +1,5 @@
+From: "John Doe" <john.doe@example.com>
+To: "Jane Doe" <jane.doe@example.com>
+Subject: Dinner
+
+Shall we go out for dinner tonight?

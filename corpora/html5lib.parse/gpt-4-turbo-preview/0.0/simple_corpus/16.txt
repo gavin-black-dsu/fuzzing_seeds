@@ -1,0 +1,1 @@
+<html><head><title>Fuzz</title></head><body><object data='fuzz.html'></object></body></html>

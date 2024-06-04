@@ -1,0 +1,3 @@
+---
+- !!python/name:module.submodule.ClassName
+- !!python/object:module.submodule.ClassName {attr: value}

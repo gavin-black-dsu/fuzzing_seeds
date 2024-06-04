@@ -1,0 +1,3 @@
+numeric,string,boolean
+1,"one",true
+2,"two",false

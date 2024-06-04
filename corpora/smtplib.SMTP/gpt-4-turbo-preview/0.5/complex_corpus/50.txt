@@ -1,0 +1,1 @@
+user:password@smtp.example.com:25/somepath

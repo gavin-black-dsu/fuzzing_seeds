@@ -1,0 +1,1 @@
+name=%3Cscript%3Ealert(%22XSS%22)%3C/script%3E&email=foo@example.com

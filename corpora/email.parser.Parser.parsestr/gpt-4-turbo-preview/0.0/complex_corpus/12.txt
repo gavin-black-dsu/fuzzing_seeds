@@ -1,0 +1,25 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Nested MIME
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary1"
+
+--boundary1
+Content-Type: text/plain
+
+This is the body of the email.
+
+--boundary1
+Content-Type: multipart/alternative; boundary="boundary2"
+
+--boundary2
+Content-Type: text/plain
+
+This is the plain text part.
+--boundary2
+Content-Type: text/html
+
+<html><body>This is the <b>HTML</b> part.</body></html>
+--boundary2--
+
+--boundary1--

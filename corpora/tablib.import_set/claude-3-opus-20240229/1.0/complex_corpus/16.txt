@@ -1,0 +1,1 @@
+tablib.import_set('col1,col2\n\N{GRINNING FACE},\N{WINKING FACE}', format='csv')

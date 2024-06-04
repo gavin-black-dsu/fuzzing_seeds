@@ -1,0 +1,2 @@
+a: !!python/object/new:complex
+kwargs: {real: 1, imag: 2}

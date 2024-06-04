@@ -1,0 +1,8 @@
+From: "Sender Name" <sender@example.com>
+To: "Receiver Name" <receiver@example.com>
+Subject: Quoted printable encoding
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+=48=65=6C=6C=6F, this =69=73 =61=20=73=69=6D=70=6C=65 =74=65=73=74=2E

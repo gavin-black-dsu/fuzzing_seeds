@@ -1,0 +1,5 @@
+[table]
+key = [1, 2, 3]
+
+[table.array]
+key = ['one', 'two', 'three']

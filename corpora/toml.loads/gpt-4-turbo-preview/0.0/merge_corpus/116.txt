@@ -1,0 +1,1 @@
+key = 'ftps://ftp.example.com'

@@ -1,0 +1,1 @@
+/path/to/fuzzing/data/**/*.txt

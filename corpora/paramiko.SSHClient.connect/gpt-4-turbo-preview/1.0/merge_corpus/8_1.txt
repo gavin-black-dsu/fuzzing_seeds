@@ -1,0 +1,1 @@
+-oProxyCommand=ssh proxyhost -W %h:%p

@@ -1,0 +1,11 @@
+
+import asyncio
+
+async def fetch_data():
+    await asyncio.sleep(1)
+    return {'data': 123}
+
+async def main():
+    data = await fetch_data()
+    print(data)
+    

@@ -1,0 +1,7 @@
+From: John Doe <johndoe@example.com>
+To: Jane Doe <janedoe@example.com>
+Subject: Meeting
+Date: Thu, 28 May 2020 14:54:32 +0000
+Content-Type: text/plain
+
+Let us meet tomorrow.

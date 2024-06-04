@@ -1,0 +1,1 @@
+<html><body><canvas width="200" height="100"></canvas></body></html>

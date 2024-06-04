@@ -1,0 +1,1 @@
+<!DOCTYPE unknown><html><head><title>Strange Doc</title></head><body><p>Unknown DocType</p></body></html>

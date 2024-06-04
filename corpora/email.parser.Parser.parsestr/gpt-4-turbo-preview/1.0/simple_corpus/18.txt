@@ -1,0 +1,6 @@
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>This is a test.</p></body></html>

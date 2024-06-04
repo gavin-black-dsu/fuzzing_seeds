@@ -1,0 +1,1 @@
+<html><head><title>Test &amp; Entities</title></head><body><p>Some &lt;escaped&gt; entities.</p></body></html>

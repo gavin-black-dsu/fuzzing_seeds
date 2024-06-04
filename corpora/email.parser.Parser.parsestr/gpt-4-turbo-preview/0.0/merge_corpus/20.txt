@@ -1,0 +1,10 @@
+From: user@example.com
+To: recipient@example.com
+Subject: Test
+
+Body with
+mismatched
+Content-Type: text/plain;
+charset="UTF-8"
+
+But binary data

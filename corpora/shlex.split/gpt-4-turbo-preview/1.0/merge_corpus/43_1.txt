@@ -1,0 +1,1 @@
+"text with emoji 😊 in double quotes"

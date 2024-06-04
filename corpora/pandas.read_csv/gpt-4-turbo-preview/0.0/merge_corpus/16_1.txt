@@ -1,0 +1,2 @@
+special_chars_field1,!@#$%^&*(),special_chars_field3
+value1,value2,value3

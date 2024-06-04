@@ -1,0 +1,2 @@
+xml_like,<tag>value</tag>
+<another>item</another>,456

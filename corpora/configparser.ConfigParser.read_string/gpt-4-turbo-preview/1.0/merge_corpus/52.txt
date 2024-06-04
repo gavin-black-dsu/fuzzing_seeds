@@ -1,0 +1,5 @@
+[section]
+
+
+#comment
+key=value

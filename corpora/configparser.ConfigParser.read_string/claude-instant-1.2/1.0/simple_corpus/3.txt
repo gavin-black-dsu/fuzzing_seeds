@@ -1,0 +1,2 @@
+[section]
+invalid key = value

@@ -1,0 +1,5 @@
+--boundary
+Content-Disposition: form-data; name="field6"
+
+{"json_key": "json_value"}
+--boundary--

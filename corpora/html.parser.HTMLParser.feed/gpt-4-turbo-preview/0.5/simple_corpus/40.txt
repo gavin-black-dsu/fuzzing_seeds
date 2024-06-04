@@ -1,0 +1,1 @@
+<html><body><template><div>Template content</div></template></body></html>
