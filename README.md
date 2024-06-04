@@ -26,7 +26,7 @@ To set up and run this project, follow these steps:
 python -m venv env
 source env/bin/activate # On Windows use env\Scripts\activate
 ```
-3. Install the required dependencies: `pip install -r requirements.txt`
+3. Install the required dependencies, this includes the dependencies for all 50 drivers: `pip install -r requirements.txt`
 4. Navigate to the project directory and launch Jupyter Notebook
 5. Open `run_driver.ipynb` and execute the cells to start fuzzing.
 
