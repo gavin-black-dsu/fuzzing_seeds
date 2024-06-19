@@ -7,6 +7,7 @@ This project is a comprehensive toolkit for fuzzing Python functions using the A
 
 ### Jupyter Notebooks
 - **run_driver.ipynb**: The primary notebook for executing fuzzing drivers with the provided seed corpora. It collects and displays coverage results.
+- **linear_regression.ipynb**: Fit both linear regresssion models and dummy average-based models to the resulting datasets and generate relevant statistics and formulas.
 
 ### Python Scripts
 - **harness_pipeline.py**: Orchestrates the execution of Atheris fuzzers for a specified number of trials.
