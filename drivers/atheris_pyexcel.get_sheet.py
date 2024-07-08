@@ -1,7 +1,6 @@
-
 import atheris
 import pyexcel
-import sys  # Added the import for sys module
+import sys
 
 def fuzz(data):
     try:

@@ -6,7 +6,6 @@ def TestOne(data):
     try:
         input_str = data.decode('utf-8')
     except UnicodeDecodeError:
-        # Incorrectly decoded data is likely and should not cause the fuzzing to crash
         return
 
     try:

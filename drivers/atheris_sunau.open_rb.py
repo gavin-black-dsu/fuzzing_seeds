@@ -1,4 +1,3 @@
-
 import atheris
 import io
 import sys

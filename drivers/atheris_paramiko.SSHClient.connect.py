@@ -20,5 +20,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Including the exception handling for socket.gaierror to catch the 'Name or service not known' error
-# Setting the missing host key policy to AutoAddPolicy to skip host key verification for the fuzzing tests.

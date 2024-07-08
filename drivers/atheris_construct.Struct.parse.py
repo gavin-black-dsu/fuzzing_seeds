@@ -1,4 +1,3 @@
-
 import atheris
 import sys
 from construct import Struct, Int32ul

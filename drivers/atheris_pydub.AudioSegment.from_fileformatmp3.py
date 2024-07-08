@@ -16,4 +16,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Ensure that sys module is imported to avoid NameError using 'sys' in main function

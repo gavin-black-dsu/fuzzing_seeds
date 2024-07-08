@@ -1,4 +1,3 @@
-
 import atheris
 import json
 import sys

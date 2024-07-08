@@ -1,4 +1,3 @@
-
 import atheris
 import wave
 import io

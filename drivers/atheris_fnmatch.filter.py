@@ -1,4 +1,3 @@
-
 import atheris
 import fnmatch
 import sys

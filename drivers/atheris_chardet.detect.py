@@ -1,4 +1,3 @@
-
 import atheris
 import chardet
 import sys

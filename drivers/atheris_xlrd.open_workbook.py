@@ -20,6 +20,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Run the fuzzing with Atheris
-# Command: conda run python3 atheris_xlrd_open_workbook.py -max_len=500 -atheris_runs=100
-# Ensure you have atheris and xlrd installed in your environment before running the fuzzing.

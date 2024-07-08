@@ -16,4 +16,3 @@ def main():
 if __name__ == "__main__":
     main()
     
-# Ensure to replace "import sys" in the above code and include a try-except block for handling exceptions.
